@@ -1,0 +1,4958 @@
+sentid	sentpos	word	num_responses	responses_exist
+0	1	Anne	0.0	True
+0	2	lost	78.0	True
+0	3	control	76.0	True
+0	4	and	80.0	True
+0	5	laughed.	80.0	True
+1	1	Billy	0.0	True
+1	2	wrote	79.0	True
+1	3	on	78.0	True
+1	4	the	78.0	True
+1	5	envelope.	79.0	True
+2	1	He	0.0	True
+2	2	called	79.0	True
+2	3	over	80.0	True
+2	4	his	76.0	True
+2	5	shoulder.	76.0	True
+3	1	He	0.0	True
+3	2	stayed	78.0	True
+3	3	against	80.0	True
+3	4	the	79.0	True
+3	5	wall.	80.0	True
+4	1	Helen	0.0	True
+4	2	ran	80.0	True
+4	3	to	76.0	True
+4	4	the	78.0	True
+4	5	toilet.	78.0	True
+5	1	I	0.0	True
+5	2	cannot	78.0	True
+5	3	tell	80.0	True
+5	4	you	79.0	True
+5	5	more.	80.0	True
+6	1	Michael	0.0	True
+6	2	gave	76.0	True
+6	3	Adam	79.0	True
+6	4	two	80.0	True
+6	5	pounds.	78.0	True
+7	1	Roger	0.0	True
+7	2	smiled	80.0	True
+7	3	and	76.0	True
+7	4	sat	76.0	True
+7	5	down.	78.0	True
+8	1	Things	0.0	True
+8	2	were	76.0	True
+8	3	looking	80.0	True
+8	4	up	78.0	True
+8	5	again.	80.0	True
+9	1	This	0.0	True
+9	2	man's	79.0	True
+9	3	hair	78.0	True
+9	4	is	80.0	True
+9	5	black.	79.0	True
+10	1	Turn	0.0	True
+10	2	your	80.0	True
+10	3	hearing	80.0	True
+10	4	aid	80.0	True
+10	5	up.	80.0	True
+11	1	You'll	0.0	True
+11	2	demand	79.0	True
+11	3	nothing	78.0	True
+11	4	of	76.0	True
+11	5	me.	79.0	True
+12	1	A	0.0	True
+12	2	horse	76.0	True
+12	3	has	78.0	True
+12	4	thrown	80.0	True
+12	5	a	78.0	True
+12	6	shoe.	79.0	True
+13	1	A	0.0	True
+13	2	tube	80.0	True
+13	3	train	76.0	True
+13	4	took	78.0	True
+13	5	his	80.0	True
+13	6	legs.	76.0	True
+14	1	Five	0.0	True
+14	2	will	78.0	True
+14	3	be	78.0	True
+14	4	listening	80.0	True
+14	5	for	76.0	True
+14	6	sure.	78.0	True
+15	1	Gordon	0.0	True
+15	2	felt	80.0	True
+15	3	his	78.0	True
+15	4	anger	78.0	True
+15	5	build	78.0	True
+15	6	up.	80.0	True
+16	1	Harry	0.0	True
+16	2	smiled	76.0	True
+16	3	at	79.0	True
+16	4	his	76.0	True
+16	5	little	79.0	True
+16	6	brother.	79.0	True
+17	1	He	0.0	True
+17	2	needed	76.0	True
+17	3	putting	80.0	True
+17	4	in	80.0	True
+17	5	his	80.0	True
+17	6	place.	78.0	True
+18	1	He	0.0	True
+18	2	shouted	80.0	True
+18	3	and	79.0	True
+18	4	the	79.0	True
+18	5	calling	80.0	True
+18	6	ceased.	79.0	True
+19	1	He	0.0	True
+19	2	uses	80.0	True
+19	3	his	80.0	True
+19	4	belt	78.0	True
+19	5	on	80.0	True
+19	6	you.	80.0	True
+20	1	He's	0.0	True
+20	2	broken	80.0	True
+20	3	his	79.0	True
+20	4	wrists	80.0	True
+20	5	very	79.0	True
+20	6	badly.	80.0	True
+21	1	I	0.0	True
+21	2	am	76.0	True
+21	3	touched	76.0	True
+21	4	deeply	76.0	True
+21	5	in	79.0	True
+21	6	places.	80.0	True
+22	1	I	0.0	True
+22	2	don't	78.0	True
+22	3	want	80.0	True
+22	4	to	76.0	True
+22	5	hear	78.0	True
+22	6	it.	80.0	True
+23	1	I	0.0	True
+23	2	knew	78.0	True
+23	3	I	78.0	True
+23	4	heard	80.0	True
+23	5	your	78.0	True
+23	6	voice.	78.0	True
+24	1	I	0.0	True
+24	2	wouldn't	80.0	True
+24	3	want	80.0	True
+24	4	to	80.0	True
+24	5	miss	79.0	True
+24	6	this.	79.0	True
+25	1	Jack	0.0	True
+25	2	walked	79.0	True
+25	3	up	80.0	True
+25	4	to	80.0	True
+25	5	the	76.0	True
+25	6	door.	76.0	True
+26	1	Ross	0.0	True
+26	2	sat	76.0	True
+26	3	back	78.0	True
+26	4	down	80.0	True
+26	5	and	79.0	True
+26	6	shivered.	80.0	True
+27	1	She	0.0	True
+27	2	couldn't	80.0	True
+27	3	help	80.0	True
+27	4	feel	79.0	True
+27	5	for	80.0	True
+27	6	Alex.	79.0	True
+28	1	The	0.0	True
+28	2	bored	78.0	True
+28	3	looking	78.0	True
+28	4	soldier	80.0	True
+28	5	just	76.0	True
+28	6	pointed.	76.0	True
+29	1	The	0.0	True
+29	2	campaign	79.0	True
+29	3	will	80.0	True
+29	4	pay	80.0	True
+29	5	for	78.0	True
+29	6	itself.	80.0	True
+30	1	They're	0.0	True
+30	2	riding	79.0	True
+30	3	out	78.0	True
+30	4	to	79.0	True
+30	5	meet	79.0	True
+30	6	them.	76.0	True
+31	1	We	0.0	True
+31	2	barely	78.0	True
+31	3	escaped	78.0	True
+31	4	with	78.0	True
+31	5	our	79.0	True
+31	6	lives.	78.0	True
+32	1	We've	0.0	True
+32	2	been	79.0	True
+32	3	travelling	80.0	True
+32	4	almost	76.0	True
+32	5	three	80.0	True
+32	6	days.	76.0	True
+33	1	Alice	0.0	True
+33	2	is	76.0	True
+33	3	looking	80.0	True
+33	4	for	79.0	True
+33	5	somewhere	78.0	True
+33	6	to	80.0	True
+33	7	live.	79.0	True
+34	1	Alan	0.0	True
+34	2	forgot	78.0	True
+34	3	to	79.0	True
+34	4	shave	80.0	True
+34	5	again	80.0	True
+34	6	this	78.0	True
+34	7	morning.	78.0	True
+35	1	Have	0.0	True
+35	2	a	80.0	True
+35	3	carriage	80.0	True
+35	4	sent	80.0	True
+35	5	for	79.0	True
+35	6	us	79.0	True
+35	7	immediately.	79.0	True
+36	1	He	0.0	True
+36	2	probably	80.0	True
+36	3	doesn't	78.0	True
+36	4	want	80.0	True
+36	5	people	76.0	True
+36	6	to	76.0	True
+36	7	know.	80.0	True
+37	1	He	0.0	True
+37	2	put	78.0	True
+37	3	the	80.0	True
+37	4	fork	79.0	True
+37	5	on	80.0	True
+37	6	the	79.0	True
+37	7	table.	80.0	True
+38	1	I'll	0.0	True
+38	2	give	78.0	True
+38	3	him	80.0	True
+38	4	more	78.0	True
+38	5	than	80.0	True
+38	6	a	78.0	True
+38	7	slap.	80.0	True
+39	1	Andrew	0.0	True
+39	2	nodded	80.0	True
+39	3	and	79.0	True
+39	4	stood	80.0	True
+39	5	against	80.0	True
+39	6	the	76.0	True
+39	7	counter.	76.0	True
+40	1	Looks	0.0	True
+40	2	like	79.0	True
+40	3	a	79.0	True
+40	4	walk	80.0	True
+40	5	did	80.0	True
+40	6	the	80.0	True
+40	7	trick.	78.0	True
+41	1	Sam	0.0	True
+41	2	felt	78.0	True
+41	3	proud	80.0	True
+41	4	when	76.0	True
+41	5	he	80.0	True
+41	6	went	80.0	True
+41	7	home.	80.0	True
+42	1	Scott	0.0	True
+42	2	got	80.0	True
+42	3	up	78.0	True
+42	4	and	76.0	True
+42	5	washed	80.0	True
+42	6	his	79.0	True
+42	7	plate.	78.0	True
+43	1	Simon	0.0	True
+43	2	nodded	76.0	True
+43	3	and	80.0	True
+43	4	walked	78.0	True
+43	5	into	79.0	True
+43	6	the	79.0	True
+43	7	room.	80.0	True
+44	1	Steve	0.0	True
+44	2	sat	80.0	True
+44	3	down	80.0	True
+44	4	to	78.0	True
+44	5	eat	79.0	True
+44	6	his	80.0	True
+44	7	lunch.	76.0	True
+45	1	Ted	0.0	True
+45	2	smiled	76.0	True
+45	3	and	78.0	True
+45	4	bit	76.0	True
+45	5	his	79.0	True
+45	6	bottom	76.0	True
+45	7	lip.	80.0	True
+46	1	Thomas	0.0	True
+46	2	stepped	78.0	True
+46	3	back	80.0	True
+46	4	and	78.0	True
+46	5	shook	79.0	True
+46	6	his	80.0	True
+46	7	head.	80.0	True
+47	1	Tom	0.0	True
+47	2	stood	80.0	True
+47	3	up	79.0	True
+47	4	and	80.0	True
+47	5	wiped	76.0	True
+47	6	his	79.0	True
+47	7	jeans.	80.0	True
+48	1	Tony	0.0	True
+48	2	stopped	78.0	True
+48	3	off	78.0	True
+48	4	at	76.0	True
+48	5	his	79.0	True
+48	6	first	80.0	True
+48	7	delivery.	80.0	True
+49	1	Normally	0.0	True
+49	2	they	78.0	True
+49	3	want	78.0	True
+49	4	to	80.0	True
+49	5	cut	76.0	True
+49	6	things	79.0	True
+49	7	up.	80.0	True
+50	1	Powerful	0.0	True
+50	2	in	80.0	True
+50	3	the	78.0	True
+50	4	wrong	79.0	True
+50	5	hands,	80.0	True
+50	6	is	78.0	True
+50	7	that.	80.0	True
+51	1	She	0.0	True
+51	2	had	78.0	True
+51	3	refused	76.0	True
+51	4	to	80.0	True
+51	5	leave	78.0	True
+51	6	her	80.0	True
+51	7	home.	79.0	True
+52	1	She	0.0	True
+52	2	hid	78.0	True
+52	3	the	79.0	True
+52	4	boxes	80.0	True
+52	5	and	76.0	True
+52	6	matches	80.0	True
+52	7	well.	79.0	True
+53	1	The	0.0	True
+53	2	bored	80.0	True
+53	3	looking	79.0	True
+53	4	soldier	80.0	True
+53	5	continued	78.0	True
+53	6	looking	80.0	True
+53	7	bored.	80.0	True
+54	1	The	0.0	True
+54	2	dead	76.0	True
+54	3	must	78.0	True
+54	4	not	78.0	True
+54	5	kill	76.0	True
+54	6	the	78.0	True
+54	7	living.	78.0	True
+55	1	The	0.0	True
+55	2	prison	80.0	True
+55	3	guard	79.0	True
+55	4	walked	76.0	True
+55	5	along	78.0	True
+55	6	the	78.0	True
+55	7	row.	79.0	True
+56	1	The	0.0	True
+56	2	van	78.0	True
+56	3	is	80.0	True
+56	4	your	79.0	True
+56	5	lead,	80.0	True
+56	6	follow	80.0	True
+56	7	that.	79.0	True
+57	1	You're	0.0	True
+57	2	getting	80.0	True
+57	3	up	79.0	True
+57	4	early	78.0	True
+57	5	in	80.0	True
+57	6	the	78.0	True
+57	7	morning.	78.0	True
+58	1	After	0.0	True
+58	2	lunch	80.0	True
+58	3	he	80.0	True
+58	4	was	79.0	True
+58	5	told	78.0	True
+58	6	he	79.0	True
+58	7	had	78.0	True
+58	8	visitors.	79.0	True
+59	1	Albert	0.0	True
+59	2	spoke	79.0	True
+59	3	before	79.0	True
+59	4	Barbara	80.0	True
+59	5	had	79.0	True
+59	6	a	76.0	True
+59	7	chance	76.0	True
+59	8	to.	76.0	True
+60	1	Come	0.0	True
+60	2	within	79.0	True
+60	3	the	78.0	True
+60	4	walls	79.0	True
+60	5	to	78.0	True
+60	6	escape	80.0	True
+60	7	the	79.0	True
+60	8	enemy.	79.0	True
+61	1	Follow	0.0	True
+61	2	me	78.0	True
+61	3	closely	80.0	True
+61	4	and	80.0	True
+61	5	watch	79.0	True
+61	6	for	80.0	True
+61	7	their	80.0	True
+61	8	leader.	80.0	True
+62	1	He	0.0	True
+62	2	called	80.0	True
+62	3	out	80.0	True
+62	4	but	78.0	True
+62	5	she	80.0	True
+62	6	did	78.0	True
+62	7	not	80.0	True
+62	8	move.	78.0	True
+63	1	He	0.0	True
+63	2	sat	80.0	True
+63	3	down	78.0	True
+63	4	and	80.0	True
+63	5	began	80.0	True
+63	6	to	80.0	True
+63	7	eat	79.0	True
+63	8	breakfast.	78.0	True
+64	1	He	0.0	True
+64	2	slammed	80.0	True
+64	3	the	78.0	True
+64	4	knife	78.0	True
+64	5	down	78.0	True
+64	6	on	79.0	True
+64	7	the	79.0	True
+64	8	lamb.	80.0	True
+65	1	He	0.0	True
+65	2	staggered	80.0	True
+65	3	into	78.0	True
+65	4	the	78.0	True
+65	5	chair	76.0	True
+65	6	at	78.0	True
+65	7	his	80.0	True
+65	8	desk.	80.0	True
+66	1	I	0.0	True
+66	2	do	79.0	True
+66	3	not	80.0	True
+66	4	spare	79.0	True
+66	5	the	76.0	True
+66	6	birds	80.0	True
+66	7	a	80.0	True
+66	8	killing.	80.0	True
+67	1	I	0.0	True
+67	2	think	79.0	True
+67	3	our	79.0	True
+67	4	friend's	80.0	True
+67	5	demands	76.0	True
+67	6	are	79.0	True
+67	7	well	79.0	True
+67	8	justified.	79.0	True
+68	1	Let	0.0	True
+68	2	us	80.0	True
+68	3	leave	79.0	True
+68	4	these	80.0	True
+68	5	poor	78.0	True
+68	6	people	80.0	True
+68	7	in	78.0	True
+68	8	peace.	80.0	True
+69	1	Walter	0.0	True
+69	2	closed	80.0	True
+69	3	the	80.0	True
+69	4	door	80.0	True
+69	5	and	79.0	True
+69	6	took	76.0	True
+69	7	a	76.0	True
+69	8	breath.	76.0	True
+70	1	William	0.0	True
+70	2	sat	80.0	True
+70	3	down	78.0	True
+70	4	and	80.0	True
+70	5	tucked	80.0	True
+70	6	into	76.0	True
+70	7	his	78.0	True
+70	8	breakfast.	80.0	True
+71	1	Alec	0.0	True
+71	2	stood	80.0	True
+71	3	against	78.0	True
+71	4	the	78.0	True
+71	5	wall	79.0	True
+71	6	to	80.0	True
+71	7	steady	76.0	True
+71	8	himself.	78.0	True
+72	1	No-one	0.0	True
+72	2	else	79.0	True
+72	3	had	78.0	True
+72	4	dared	80.0	True
+72	5	step	78.0	True
+72	6	within	78.0	True
+72	7	the	80.0	True
+72	8	ring.	80.0	True
+73	1		0.0	True
+73	2	of	76.0	True
+73	3	the	78.0	True
+73	4	city	79.0	True
+73	5	people	78.0	True
+73	6	dress	80.0	True
+73	7	like	78.0	True
+73	8	that.	78.0	True
+74	1	She	0.0	True
+74	2	saw	78.0	True
+74	3	the	78.0	True
+74	4	throwing	76.0	True
+74	5	knife	79.0	True
+74	6	in	80.0	True
+74	7	his	78.0	True
+74	8	hand.	76.0	True
+75	1	She	0.0	True
+75	2	was	80.0	True
+75	3	smiling	78.0	True
+75	4	in	78.0	True
+75	5	the	78.0	True
+75	6	dark,	80.0	True
+75	7	teeth	79.0	True
+75	8	flashing.	80.0	True
+76	1	Shut	0.0	True
+76	2	your	79.0	True
+76	3	smart	79.0	True
+76	4	foul	80.0	True
+76	5	mouth	78.0	True
+76	6	and	78.0	True
+76	7	sit	78.0	True
+76	8	down.	80.0	True
+77	1	Tell	0.0	True
+77	2	me	80.0	True
+77	3	what	80.0	True
+77	4	really	79.0	True
+77	5	happened	79.0	True
+77	6	to	80.0	True
+77	7	the	78.0	True
+77	8	truck.	78.0	True
+78	1	The	0.0	True
+78	2	door	80.0	True
+78	3	was	79.0	True
+78	4	opened	79.0	True
+78	5	and	78.0	True
+78	6	Alexander	79.0	True
+78	7	walked	78.0	True
+78	8	out.	80.0	True
+79	1	There	0.0	True
+79	2	were	80.0	True
+79	3	choked	79.0	True
+79	4	screams	79.0	True
+79	5	and	76.0	True
+79	6	shouts	78.0	True
+79	7	of	80.0	True
+79	8	dismay.	80.0	True
+80	1	There	0.0	True
+80	2	will	78.0	True
+80	3	be	80.0	True
+80	4	men	79.0	True
+80	5	to	76.0	True
+80	6	kill	80.0	True
+80	7	either	80.0	True
+80	8	way.	80.0	True
+81	1	They	0.0	True
+81	2	were	80.0	True
+81	3	definitely	76.0	True
+81	4	holding	78.0	True
+81	5	hands	79.0	True
+81	6	underneath	80.0	True
+81	7	the	78.0	True
+81	8	table.	76.0	True
+82	1	Claudia	0.0	True
+82	2	still	78.0	True
+82	3	teaches	79.0	True
+82	4	and	78.0	True
+82	5	still	76.0	True
+82	6	claims	80.0	True
+82	7	to	80.0	True
+82	8	hate	78.0	True
+82	9	it.	78.0	True
+83	1	Burn	0.0	True
+83	2	him	80.0	True
+83	3	now,	78.0	True
+83	4	don't	78.0	True
+83	5	wait	78.0	True
+83	6	for	79.0	True
+83	7	him	78.0	True
+83	8	to	78.0	True
+83	9	escape.	79.0	True
+84	1	Don't	0.0	True
+84	2	die	78.0	True
+84	3	of	78.0	True
+84	4	cold	80.0	True
+84	5	before	80.0	True
+84	6	you	79.0	True
+84	7	die	76.0	True
+84	8	in	76.0	True
+84	9	battle.	79.0	True
+85	1	Good	0.0	True
+85	2	God,	78.0	True
+85	3	if	78.0	True
+85	4	you	80.0	True
+85	5	are	80.0	True
+85	6	watching,	80.0	True
+85	7	give	78.0	True
+85	8	me	79.0	True
+85	9	strength.	80.0	True
+86	1	He	0.0	True
+86	2	heaved	80.0	True
+86	3	his	80.0	True
+86	4	shoulders	80.0	True
+86	5	and	76.0	True
+86	6	swung	78.0	True
+86	7	the	80.0	True
+86	8	axe	76.0	True
+86	9	again.	78.0	True
+87	1	He	0.0	True
+87	2	is	80.0	True
+87	3	after	80.0	True
+87	4	glory	78.0	True
+87	5	and	80.0	True
+87	6	heads	79.0	True
+87	7	for	79.0	True
+87	8	his	76.0	True
+87	9	hall.	79.0	True
+88	1	He	0.0	True
+88	2	just	76.0	True
+88	3	wished	76.0	True
+88	4	he	79.0	True
+88	5	could	80.0	True
+88	6	talk	78.0	True
+88	7	to	80.0	True
+88	8	his	79.0	True
+88	9	dad.	79.0	True
+89	1	He	0.0	True
+89	2	lay	76.0	True
+89	3	his	76.0	True
+89	4	sword	80.0	True
+89	5	aside	79.0	True
+89	6	and	80.0	True
+89	7	extended	80.0	True
+89	8	his	80.0	True
+89	9	hands.	80.0	True
+90	1	He	0.0	True
+90	2	sighed	80.0	True
+90	3	and	76.0	True
+90	4	walked	80.0	True
+90	5	back	80.0	True
+90	6	to	80.0	True
+90	7	the	79.0	True
+90	8	wood	80.0	True
+90	9	shop.	79.0	True
+91	1	He	0.0	True
+91	2	smiled	79.0	True
+91	3	when	78.0	True
+91	4	she	78.0	True
+91	5	let	80.0	True
+91	6	out	76.0	True
+91	7	a	80.0	True
+91	8	big	79.0	True
+91	9	yawn.	80.0	True
+92	1	He	0.0	True
+92	2	was	79.0	True
+92	3	leaning	76.0	True
+92	4	against	78.0	True
+92	5	his	80.0	True
+92	6	truck	79.0	True
+92	7	smoking	78.0	True
+92	8	a	79.0	True
+92	9	joint.	78.0	True
+93	1	I	0.0	True
+93	2	was	79.0	True
+93	3	thinking	79.0	True
+93	4	of	79.0	True
+93	5	getting	80.0	True
+93	6	the	76.0	True
+93	7	band	79.0	True
+93	8	together	80.0	True
+93	9	again.	79.0	True
+94	1	It	0.0	True
+94	2	is	78.0	True
+94	3	a	79.0	True
+94	4	narrow	76.0	True
+94	5	ship,	80.0	True
+94	6	much	80.0	True
+94	7	like	78.0	True
+94	8	our	79.0	True
+94	9	own.	79.0	True
+95	1	Arthur	0.0	True
+95	2	placed	78.0	True
+95	3	the	80.0	True
+95	4	bars	76.0	True
+95	5	of	80.0	True
+95	6	chocolate	76.0	True
+95	7	on	80.0	True
+95	8	the	79.0	True
+95	9	counter.	79.0	True
+96	1	John	0.0	True
+96	2	gave	80.0	True
+96	3	Bernard	78.0	True
+96	4	a	80.0	True
+96	5	hard	78.0	True
+96	6	slap	78.0	True
+96	7	on	80.0	True
+96	8	the	80.0	True
+96	9	head.	78.0	True
+97	1	Let's	0.0	True
+97	2	get	76.0	True
+97	3	out	79.0	True
+97	4	and	78.0	True
+97	5	I'll	78.0	True
+97	6	buy	79.0	True
+97	7	you	78.0	True
+97	8	a	80.0	True
+97	9	drink.	79.0	True
+98	1	Let's	0.0	True
+98	2	have	78.0	True
+98	3	the	80.0	True
+98	4	gates	78.0	True
+98	5	closed	80.0	True
+98	6	and	80.0	True
+98	7	go	79.0	True
+98	8	home	79.0	True
+98	9	early.	79.0	True
+99	1	Andrew	0.0	True
+99	2	closed	78.0	True
+99	3	the	76.0	True
+99	4	office	80.0	True
+99	5	door	79.0	True
+99	6	on	78.0	True
+99	7	the	78.0	True
+99	8	way	79.0	True
+99	9	out.	78.0	True
+100	1	Charles	0.0	True
+100	2	felt	80.0	True
+100	3	sick	80.0	True
+100	4	to	76.0	True
+100	5	the	78.0	True
+100	6	pit	80.0	True
+100	7	of	78.0	True
+100	8	his	80.0	True
+100	9	stomach.	80.0	True
+101	1	Christopher	0.0	True
+101	2	groaned	80.0	True
+101	3	and	79.0	True
+101	4	lay	79.0	True
+101	5	his	79.0	True
+101	6	hands	80.0	True
+101	7	across	80.0	True
+101	8	his	80.0	True
+101	9	stomach.	78.0	True
+102	1	Dave	0.0	True
+102	2	kicked	78.0	True
+102	3	him	76.0	True
+102	4	in	76.0	True
+102	5	the	76.0	True
+102	6	stomach	76.0	True
+102	7	and	78.0	True
+102	8	Paul	79.0	True
+102	9	groaned.	78.0	True
+103	1	Dexter	0.0	True
+103	2	opened	76.0	True
+103	3	his	80.0	True
+103	4	letter	78.0	True
+103	5	and	78.0	True
+103	6	found	80.0	True
+103	7	a	80.0	True
+103	8	photograph	80.0	True
+103	9	inside.	78.0	True
+104	1	Duncan	0.0	True
+104	2	took	79.0	True
+104	3	a	79.0	True
+104	4	breath	78.0	True
+104	5	and	80.0	True
+104	6	wanted	78.0	True
+104	7	to	80.0	True
+104	8	be	79.0	True
+104	9	sick.	79.0	True
+105	1	Edward	0.0	True
+105	2	washed	80.0	True
+105	3	his	80.0	True
+105	4	hands	78.0	True
+105	5	and	80.0	True
+105	6	flicked	79.0	True
+105	7	water	79.0	True
+105	8	at	79.0	True
+105	9	Bob.	76.0	True
+106	1	She	0.0	True
+106	2	turned	80.0	True
+106	3	and	79.0	True
+106	4	saw	79.0	True
+106	5	him	79.0	True
+106	6	standing	78.0	True
+106	7	in	80.0	True
+106	8	her	80.0	True
+106	9	path.	79.0	True
+107	1	They	0.0	True
+107	2	turned	80.0	True
+107	3	round	80.0	True
+107	4	just	78.0	True
+107	5	as	80.0	True
+107	6	Frankie	78.0	True
+107	7	walked	78.0	True
+107	8	toward	79.0	True
+107	9	them.	79.0	True
+108	1	Underneath	0.0	True
+108	2	the	76.0	True
+108	3	table	78.0	True
+108	4	her	76.0	True
+108	5	hand	78.0	True
+108	6	was	80.0	True
+108	7	gripping	78.0	True
+108	8	the	80.0	True
+108	9	chair.	80.0	True
+109	1	Whether	0.0	True
+109	2	Peter	79.0	True
+109	3	heard	78.0	True
+109	4	him	79.0	True
+109	5	or	76.0	True
+109	6	not	80.0	True
+109	7	Gabriel	78.0	True
+109	8	didn't	79.0	True
+109	9	care.	80.0	True
+110	1	You	0.0	True
+110	2	give	79.0	True
+110	3	me	80.0	True
+110	4	a	80.0	True
+110	5	lead	76.0	True
+110	6	and	79.0	True
+110	7	I'll	79.0	True
+110	8	follow	80.0	True
+110	9	it.	79.0	True
+111	1	All	0.0	True
+111	2	the	78.0	True
+111	3	bowls	76.0	True
+111	4	from	76.0	True
+111	5	the	79.0	True
+111	6	empty	80.0	True
+111	7	tables	78.0	True
+111	8	are	78.0	True
+111	9	cleared	80.0	True
+111	10	up.	79.0	True
+112	1	His	0.0	True
+112	2	dark	76.0	True
+112	3	hair	79.0	True
+112	4	was	76.0	True
+112	5	just	79.0	True
+112	6	visible	80.0	True
+112	7	under	80.0	True
+112	8	his	79.0	True
+112	9	white	80.0	True
+112	10	hat.	78.0	True
+113	1	His	0.0	True
+113	2	men	80.0	True
+113	3	will	78.0	True
+113	4	not	78.0	True
+113	5	follow	78.0	True
+113	6	him	80.0	True
+113	7	and	78.0	True
+113	8	they	79.0	True
+113	9	are	79.0	True
+113	10	few.	80.0	True
+114	1	I'll	0.0	True
+114	2	break	80.0	True
+114	3	your	76.0	True
+114	4	neck	76.0	True
+114	5	if	80.0	True
+114	6	you	76.0	True
+114	7	don't	79.0	True
+114	8	fix	80.0	True
+114	9	that	80.0	True
+114	10	water.	78.0	True
+115	1	Ian	0.0	True
+115	2	gave	79.0	True
+115	3	Geoffrey	80.0	True
+115	4	a	80.0	True
+115	5	hard	79.0	True
+115	6	slap	79.0	True
+115	7	across	79.0	True
+115	8	his	80.0	True
+115	9	right	78.0	True
+115	10	ear.	79.0	True
+116	1	Jake	0.0	True
+116	2	smiled	80.0	True
+116	3	again	80.0	True
+116	4	at	80.0	True
+116	5	his	76.0	True
+116	6	baby	76.0	True
+116	7	daughter,	76.0	True
+116	8	she	80.0	True
+116	9	was	78.0	True
+116	10	perfect.	78.0	True
+117	1	Jimmy	0.0	True
+117	2	liked	79.0	True
+117	3	the	79.0	True
+117	4	fact	78.0	True
+117	5	they	79.0	True
+117	6	were	79.0	True
+117	7	calling	80.0	True
+117	8	him	78.0	True
+117	9	Jim.	78.0	True
+118	1	Brian	0.0	True
+118	2	sniffed	80.0	True
+118	3	and	76.0	True
+118	4	wiped	78.0	True
+118	5	his	78.0	True
+118	6	grubby	76.0	True
+118	7	hand	78.0	True
+118	8	across	78.0	True
+118	9	his	79.0	True
+118	10	nose.	79.0	True
+119	1	Phil	0.0	True
+119	2	let	76.0	True
+119	3	him	80.0	True
+119	4	go	78.0	True
+119	5	and	78.0	True
+119	6	Charlie	80.0	True
+119	7	fell	80.0	True
+119	8	to	76.0	True
+119	9	the	80.0	True
+119	10	ground.	80.0	True
+120	1	Let	0.0	True
+120	2	me	76.0	True
+120	3	through	79.0	True
+120	4	and	79.0	True
+120	5	you'll	78.0	True
+120	6	hear	79.0	True
+120	7	nothing	80.0	True
+120	8	more	78.0	True
+120	9	of	76.0	True
+120	10	it.	76.0	True
+121	1	Men	0.0	True
+121	2	could	80.0	True
+121	3	be	80.0	True
+121	4	paid	78.0	True
+121	5	to	80.0	True
+121	6	do	79.0	True
+121	7	all	76.0	True
+121	8	sorts	78.0	True
+121	9	of	78.0	True
+121	10	things.	78.0	True
+122	1	Gilbert	0.0	True
+122	2	sat	80.0	True
+122	3	as	79.0	True
+122	4	still	79.0	True
+122	5	as	78.0	True
+122	6	he	80.0	True
+122	7	could	80.0	True
+122	8	nursing	80.0	True
+122	9	his	78.0	True
+122	10	lip.	76.0	True
+123	1	Jacques	0.0	True
+123	2	sighed	78.0	True
+123	3	and	79.0	True
+123	4	tried	79.0	True
+123	5	to	80.0	True
+123	6	move	78.0	True
+123	7	out	79.0	True
+123	8	of	80.0	True
+123	9	the	79.0	True
+123	10	way.	80.0	True
+124	1	Jamie	0.0	True
+124	2	took	80.0	True
+124	3	a	80.0	True
+124	4	cigarette	80.0	True
+124	5	and	80.0	True
+124	6	Andy	80.0	True
+124	7	gave	79.0	True
+124	8	him	76.0	True
+124	9	a	80.0	True
+124	10	light.	79.0	True
+125	1	Joseph	0.0	True
+125	2	walked	78.0	True
+125	3	into	79.0	True
+125	4	the	76.0	True
+125	5	office	79.0	True
+125	6	and	79.0	True
+125	7	removed	78.0	True
+125	8	his	80.0	True
+125	9	flat	80.0	True
+125	10	cap.	80.0	True
+126	1	She	0.0	True
+126	2	would	78.0	True
+126	3	soon	80.0	True
+126	4	be	80.0	True
+126	5	found	80.0	True
+126	6	if	79.0	True
+126	7	she	79.0	True
+126	8	tried	79.0	True
+126	9	to	79.0	True
+126	10	hide.	80.0	True
+127	1	The	0.0	True
+127	2	brothers	80.0	True
+127	3	stood	78.0	True
+127	4	up	80.0	True
+127	5	and	78.0	True
+127	6	came	78.0	True
+127	7	down	80.0	True
+127	8	from	78.0	True
+127	9	the	79.0	True
+127	10	platform.	80.0	True
+128	1	Anthony	0.0	True
+128	2	was	76.0	True
+128	3	approached,	79.0	True
+128	4	just	80.0	True
+128	5	as	79.0	True
+128	6	he	76.0	True
+128	7	had	78.0	True
+128	8	predicted,	79.0	True
+128	9	in	80.0	True
+128	10	the	78.0	True
+128	11	park.	79.0	True
+129	1	Despite	0.0	True
+129	2	what	78.0	True
+129	3	Frank	78.0	True
+129	4	had	78.0	True
+129	5	told	78.0	True
+129	6	her	80.0	True
+129	7	Ellen	80.0	True
+129	8	thanked	76.0	True
+129	9	the	78.0	True
+129	10	young	78.0	True
+129	11	soldier.	79.0	True
+130	1	He	0.0	True
+130	2	called	80.0	True
+130	3	earlier	78.0	True
+130	4	and	78.0	True
+130	5	I	80.0	True
+130	6	already	79.0	True
+130	7	arranged	78.0	True
+130	8	to	79.0	True
+130	9	go	79.0	True
+130	10	swimming	80.0	True
+130	11	tomorrow.	80.0	True
+131	1	He	0.0	True
+131	2	drove	79.0	True
+131	3	his	80.0	True
+131	4	truck	76.0	True
+131	5	home	76.0	True
+131	6	and	78.0	True
+131	7	walked	79.0	True
+131	8	down	78.0	True
+131	9	to	78.0	True
+131	10	the	80.0	True
+131	11	village.	79.0	True
+132	1	He	0.0	True
+132	2	held	76.0	True
+132	3	his	79.0	True
+132	4	mother	78.0	True
+132	5	tight	80.0	True
+132	6	and	80.0	True
+132	7	she	78.0	True
+132	8	cried	78.0	True
+132	9	into	80.0	True
+132	10	his	80.0	True
+132	11	chest.	80.0	True
+133	1	He	0.0	True
+133	2	went	79.0	True
+133	3	to	80.0	True
+133	4	the	79.0	True
+133	5	door	80.0	True
+133	6	and	76.0	True
+133	7	walked	78.0	True
+133	8	out	80.0	True
+133	9	of	80.0	True
+133	10	the	78.0	True
+133	11	room.	79.0	True
+134	1	His	0.0	True
+134	2	helmet	80.0	True
+134	3	was	80.0	True
+134	4	lost	79.0	True
+134	5	but	80.0	True
+134	6	he	79.0	True
+134	7	could	79.0	True
+134	8	still	80.0	True
+134	9	do	80.0	True
+134	10	some	80.0	True
+134	11	damage.	76.0	True
+135	1	Ken	0.0	True
+135	2	just	80.0	True
+135	3	hoped	80.0	True
+135	4	he	80.0	True
+135	5	wasn't	79.0	True
+135	6	taking	80.0	True
+135	7	his	78.0	True
+135	8	temper	79.0	True
+135	9	out	79.0	True
+135	10	on	80.0	True
+135	11	Chris.	80.0	True
+136	1	Lawrence	0.0	True
+136	2	rubbed	79.0	True
+136	3	the	76.0	True
+136	4	back	78.0	True
+136	5	of	78.0	True
+136	6	his	76.0	True
+136	7	neck	78.0	True
+136	8	and	79.0	True
+136	9	hung	78.0	True
+136	10	his	80.0	True
+136	11	head.	79.0	True
+137	1	Lewis	0.0	True
+137	2	sat	78.0	True
+137	3	down	78.0	True
+137	4	and	79.0	True
+137	5	Lucy	79.0	True
+137	6	laid	78.0	True
+137	7	her	80.0	True
+137	8	hand	76.0	True
+137	9	on	79.0	True
+137	10	his	76.0	True
+137	11	cheek.	76.0	True
+138	1	Matthew	0.0	True
+138	2	stood	79.0	True
+138	3	against	79.0	True
+138	4	the	78.0	True
+138	5	wall	80.0	True
+138	6	with	76.0	True
+138	7	his	79.0	True
+138	8	hands	76.0	True
+138	9	behind	78.0	True
+138	10	his	76.0	True
+138	11	back.	79.0	True
+139	1	Run	0.0	True
+139	2	along	79.0	True
+139	3	home	80.0	True
+139	4	now	79.0	True
+139	5	and	76.0	True
+139	6	bring	80.0	True
+139	7	us	79.0	True
+139	8	some	80.0	True
+139	9	men	79.0	True
+139	10	to	78.0	True
+139	11	kill.	79.0	True
+140	1	She	0.0	True
+140	2	just	80.0	True
+140	3	kept	79.0	True
+140	4	telling	79.0	True
+140	5	herself	78.0	True
+140	6	he	80.0	True
+140	7	had	79.0	True
+140	8	to	80.0	True
+140	9	learn	76.0	True
+140	10	a	78.0	True
+140	11	lesson.	80.0	True
+141	1	She	0.0	True
+141	2	wound	78.0	True
+141	3	up	78.0	True
+141	4	talking	80.0	True
+141	5	to	78.0	True
+141	6	Barry	80.0	True
+141	7	about	79.0	True
+141	8	her	79.0	True
+141	9	time	80.0	True
+141	10	in	78.0	True
+141	11	India.	78.0	True
+142	1	The	0.0	True
+142	2	gate	80.0	True
+142	3	was	80.0	True
+142	4	double,	79.0	True
+142	5	one	78.0	True
+142	6	huge	79.0	True
+142	7	mass	79.0	True
+142	8	of	80.0	True
+142	9	wood	76.0	True
+142	10	following	76.0	True
+142	11	another.	80.0	True
+143	1	The	0.0	True
+143	2	gathered	78.0	True
+143	3	villagers	79.0	True
+143	4	took	79.0	True
+143	5	a	80.0	True
+143	6	step	80.0	True
+143	7	back,	80.0	True
+143	8	almost	78.0	True
+143	9	as	79.0	True
+143	10	one	80.0	True
+143	11	man.	80.0	True
+144	1	We	0.0	True
+144	2	shall	79.0	True
+144	3	arrive	80.0	True
+144	4	properly	80.0	True
+144	5	or	79.0	True
+144	6	you	79.0	True
+144	7	will	78.0	True
+144	8	never	80.0	True
+144	9	live	80.0	True
+144	10	this	80.0	True
+144	11	down.	78.0	True
+145	1	While	0.0	True
+145	2	they	78.0	True
+145	3	sat	80.0	True
+145	4	drinking	78.0	True
+145	5	their	78.0	True
+145	6	tea,	78.0	True
+145	7	Mick	79.0	True
+145	8	dug	80.0	True
+145	9	them	76.0	True
+145	10	a	79.0	True
+145	11	trench.	80.0	True
+146	1	You	0.0	True
+146	2	know	76.0	True
+146	3	better	80.0	True
+146	4	than	78.0	True
+146	5	to	76.0	True
+146	6	talk	78.0	True
+146	7	to	78.0	True
+146	8	your	78.0	True
+146	9	mother	80.0	True
+146	10	like	78.0	True
+146	11	that.	80.0	True
+147	1	You	0.0	True
+147	2	know	79.0	True
+147	3	that	78.0	True
+147	4	I	79.0	True
+147	5	will	80.0	True
+147	6	do	76.0	True
+147	7	whatever	78.0	True
+147	8	you	78.0	True
+147	9	ask	80.0	True
+147	10	of	80.0	True
+147	11	me.	76.0	True
+148	1	You	0.0	True
+148	2	shouldn't	78.0	True
+148	3	have	79.0	True
+148	4	been	76.0	True
+148	5	racing	76.0	True
+148	6	my	80.0	True
+148	7	truck	80.0	True
+148	8	in	78.0	True
+148	9	the	78.0	True
+148	10	first	78.0	True
+148	11	place.	79.0	True
+149	1	A	0.0	True
+149	2	smile	80.0	True
+149	3	came	80.0	True
+149	4	to	80.0	True
+149	5	his	80.0	True
+149	6	lips	79.0	True
+149	7	as	79.0	True
+149	8	he	80.0	True
+149	9	thought	80.0	True
+149	10	of	80.0	True
+149	11	an	80.0	True
+149	12	idea.	78.0	True
+150	1	All	0.0	True
+150	2	last	76.0	True
+150	3	week	79.0	True
+150	4	there	80.0	True
+150	5	was	79.0	True
+150	6	a	79.0	True
+150	7	white	78.0	True
+150	8	van	76.0	True
+150	9	parked	78.0	True
+150	10	across	79.0	True
+150	11	the	76.0	True
+150	12	street.	80.0	True
+151	1	Finally	0.0	True
+151	2	Maria	80.0	True
+151	3	sat	80.0	True
+151	4	down	80.0	True
+151	5	with	78.0	True
+151	6	a	80.0	True
+151	7	cup	80.0	True
+151	8	of	79.0	True
+151	9	tea	80.0	True
+151	10	and	78.0	True
+151	11	a	80.0	True
+151	12	sandwich.	79.0	True
+152	1	Have		False
+152	2	that		False
+152	3	carriage		False
+152	4	sent		False
+152	5	down		False
+152	6	and		False
+152	7	have		False
+152	8	servants		False
+152	9	bring		False
+152	10	wine		False
+152	11	and		False
+152	12	water.		False
+153	1	He	0.0	True
+153	2	didn't	78.0	True
+153	3	seem	79.0	True
+153	4	to	79.0	True
+153	5	mind	80.0	True
+153	6	that	78.0	True
+153	7	she	78.0	True
+153	8	was	79.0	True
+153	9	screaming	80.0	True
+153	10	in	80.0	True
+153	11	his	80.0	True
+153	12	ear.	80.0	True
+154	1	He	0.0	True
+154	2	drank	78.0	True
+154	3	too	80.0	True
+154	4	much	80.0	True
+154	5	at	78.0	True
+154	6	times	79.0	True
+154	7	and	80.0	True
+154	8	washed	79.0	True
+154	9	too	78.0	True
+154	10	little	78.0	True
+154	11	at	76.0	True
+154	12	times.	80.0	True
+155	1	He	0.0	True
+155	2	folded	78.0	True
+155	3	his	78.0	True
+155	4	arms	80.0	True
+155	5	across	80.0	True
+155	6	his	78.0	True
+155	7	chest	80.0	True
+155	8	and	79.0	True
+155	9	put	79.0	True
+155	10	out	80.0	True
+155	11	his	80.0	True
+155	12	lip.	80.0	True
+156	1	He	0.0	True
+156	2	had	80.0	True
+156	3	another	78.0	True
+156	4	shock	80.0	True
+156	5	when	79.0	True
+156	6	they	79.0	True
+156	7	told	79.0	True
+156	8	him	78.0	True
+156	9	he	80.0	True
+156	10	was	80.0	True
+156	11	moving	78.0	True
+156	12	cells.	79.0	True
+157	1	He	0.0	True
+157	2	put	79.0	True
+157	3	his	78.0	True
+157	4	hands	78.0	True
+157	5	in	79.0	True
+157	6	his	80.0	True
+157	7	pockets	78.0	True
+157	8	and	76.0	True
+157	9	leaned	80.0	True
+157	10	against	79.0	True
+157	11	the	78.0	True
+157	12	truck.	80.0	True
+158	1	He	0.0	True
+158	2	was	79.0	True
+158	3	built	80.0	True
+158	4	with	78.0	True
+158	5	muscle	78.0	True
+158	6	and	78.0	True
+158	7	liked	80.0	True
+158	8	to	79.0	True
+158	9	throw	80.0	True
+158	10	his	76.0	True
+158	11	weight	78.0	True
+158	12	around.	79.0	True
+159	1	I	0.0	True
+159	2	am	78.0	True
+159	3	trying,	78.0	True
+159	4	old	78.0	True
+159	5	man,	76.0	True
+159	6	but	79.0	True
+159	7	I	80.0	True
+159	8	would	79.0	True
+159	9	rather	80.0	True
+159	10	kill	80.0	True
+159	11	the	80.0	True
+159	12	ship.	79.0	True
+160	1	I	0.0	True
+160	2	shall	80.0	True
+160	3	have	78.0	True
+160	4	a	79.0	True
+160	5	victory	79.0	True
+160	6	and	78.0	True
+160	7	I	80.0	True
+160	8	want	79.0	True
+160	9	it	80.0	True
+160	10	to	79.0	True
+160	11	be	80.0	True
+160	12	remembered.	79.0	True
+161	1	In	0.0	True
+161	2	the	80.0	True
+161	3	morning	79.0	True
+161	4	Mickey	79.0	True
+161	5	stood	80.0	True
+161	6	straight	80.0	True
+161	7	with	79.0	True
+161	8	his	79.0	True
+161	9	hand	78.0	True
+161	10	behind	78.0	True
+161	11	his	79.0	True
+161	12	back.	79.0	True
+162	1	In	0.0	True
+162	2	the	76.0	True
+162	3	morning	78.0	True
+162	4	at	78.0	True
+162	5	breakfast	76.0	True
+162	6	Mike	80.0	True
+162	7	smiled	80.0	True
+162	8	at	80.0	True
+162	9	the	79.0	True
+162	10	letter	80.0	True
+162	11	he	80.0	True
+162	12	received.	78.0	True
+163	1	It	0.0	True
+163	2	had	80.0	True
+163	3	been	79.0	True
+163	4	two	80.0	True
+163	5	weeks	79.0	True
+163	6	since	78.0	True
+163	7	Philip	78.0	True
+163	8	had	80.0	True
+163	9	been	80.0	True
+163	10	sent	79.0	True
+163	11	to	78.0	True
+163	12	prison.	80.0	True
+164	1	It	0.0	True
+164	2	is	78.0	True
+164	3	not	78.0	True
+164	4	the	76.0	True
+164	5	most	79.0	True
+164	6	fragrant	80.0	True
+164	7	of	80.0	True
+164	8	places	78.0	True
+164	9	but	78.0	True
+164	10	we	76.0	True
+164	11	make	80.0	True
+164	12	do.	79.0	True
+165	1	James	0.0	True
+165	2	walked	79.0	True
+165	3	in	79.0	True
+165	4	to	79.0	True
+165	5	wake	78.0	True
+165	6	Samuel	80.0	True
+165	7	at	78.0	True
+165	8	four	80.0	True
+165	9	thirty	78.0	True
+165	10	in	76.0	True
+165	11	the	78.0	True
+165	12	morning.	78.0	True
+166	1	David		False
+166	2	came		False
+166	3	running		False
+166	4	into		False
+166	5	the		False
+166	6	waiting		False
+166	7	room		False
+166	8	and		False
+166	9	went		False
+166	10	straight		False
+166	11	to		False
+166	12	Stephen.		False
+167	1	Dennis		False
+167	2	was		False
+167	3	standing		False
+167	4	at		False
+167	5	the		False
+167	6	entrance		False
+167	7	to		False
+167	8	the		False
+167	9	workshop		False
+167	10	smiling		False
+167	11	at		False
+167	12	Terry.		False
+168	1	Let	0.0	True
+168	2	us	78.0	True
+168	3	give	78.0	True
+168	4	battle	76.0	True
+168	5	to	79.0	True
+168	6	these	80.0	True
+168	7	foreign	78.0	True
+168	8	snakes	76.0	True
+168	9	once	80.0	True
+168	10	and	79.0	True
+168	11	for	80.0	True
+168	12	all.	80.0	True
+169	1	Tommy	0.0	True
+169	2	came	80.0	True
+169	3	out	79.0	True
+169	4	of	76.0	True
+169	5	the	80.0	True
+169	6	staff	78.0	True
+169	7	room	76.0	True
+169	8	toilet	76.0	True
+169	9	looking	79.0	True
+169	10	a	79.0	True
+169	11	little	76.0	True
+169	12	pale.	80.0	True
+170	1	Adam		False
+170	2	hoped		False
+170	3	she		False
+170	4	was		False
+170	5	knocked		False
+170	6	out		False
+170	7	cold		False
+170	8	and		False
+170	9	wouldn't		False
+170	10	wake		False
+170	11	till		False
+170	12	morning.		False
+171	1	Michael	0.0	True
+171	2	knew	79.0	True
+171	3	they	76.0	True
+171	4	never	78.0	True
+171	5	hit	78.0	True
+171	6	him	78.0	True
+171	7	and	79.0	True
+171	8	that	78.0	True
+171	9	was	80.0	True
+171	10	half	80.0	True
+171	11	the	79.0	True
+171	12	problem.	80.0	True
+172	1	Alan	0.0	True
+172	2	told	79.0	True
+172	3	Jason	80.0	True
+172	4	he	80.0	True
+172	5	would	80.0	True
+172	6	just	78.0	True
+172	7	sit	76.0	True
+172	8	outside	79.0	True
+172	9	to	79.0	True
+172	10	have	80.0	True
+172	11	his	80.0	True
+172	12	lunch.	78.0	True
+173	1	Now	0.0	True
+173	2	the	80.0	True
+173	3	man	80.0	True
+173	4	is	76.0	True
+173	5	coming	79.0	True
+173	6	who	80.0	True
+173	7	will	80.0	True
+173	8	give	76.0	True
+173	9	it	80.0	True
+173	10	back	76.0	True
+173	11	to	80.0	True
+173	12	me.	80.0	True
+174	1	She	0.0	True
+174	2	threatened	80.0	True
+174	3	to	76.0	True
+174	4	leave	80.0	True
+174	5	before	80.0	True
+174	6	and	79.0	True
+174	7	this	79.0	True
+174	8	time	79.0	True
+174	9	she	80.0	True
+174	10	just	80.0	True
+174	11	had	80.0	True
+174	12	enough.	79.0	True
+175	1	The	0.0	True
+175	2	first	80.0	True
+175	3	knife	80.0	True
+175	4	caught	80.0	True
+175	5	in	78.0	True
+175	6	her	78.0	True
+175	7	skirt	79.0	True
+175	8	and	80.0	True
+175	9	she	76.0	True
+175	10	shook	80.0	True
+175	11	it	76.0	True
+175	12	free.	80.0	True
+176	1	The	0.0	True
+176	2	last	78.0	True
+176	3	thing	78.0	True
+176	4	Alex	76.0	True
+176	5	felt	80.0	True
+176	6	like	78.0	True
+176	7	doing	78.0	True
+176	8	after	76.0	True
+176	9	work	76.0	True
+176	10	was	78.0	True
+176	11	more	78.0	True
+176	12	work.	79.0	True
+177	1	The	0.0	True
+177	2	truck	80.0	True
+177	3	was	80.0	True
+177	4	an	80.0	True
+177	5	older	76.0	True
+177	6	version	80.0	True
+177	7	of	80.0	True
+177	8	the	78.0	True
+177	9	ones	78.0	True
+177	10	the	78.0	True
+177	11	others	78.0	True
+177	12	drove.	80.0	True
+178	1	They	0.0	True
+178	2	stared	78.0	True
+178	3	at	78.0	True
+178	4	the	78.0	True
+178	5	black	78.0	True
+178	6	wall	80.0	True
+178	7	and	80.0	True
+178	8	now	80.0	True
+178	9	this	80.0	True
+178	10	offered	79.0	True
+178	11	no	78.0	True
+178	12	comfort.	76.0	True
+179	1	They		False
+179	2	were		False
+179	3	halfway		False
+179	4	through		False
+179	5	breakfast		False
+179	6	when		False
+179	7	a		False
+179	8	guard		False
+179	9	walked		False
+179	10	up		False
+179	11	with		False
+179	12	mail.		False
+180	1	We	0.0	True
+180	2	should	80.0	True
+180	3	talk	79.0	True
+180	4	about	76.0	True
+180	5	the	79.0	True
+180	6	things	79.0	True
+180	7	people	79.0	True
+180	8	talk	79.0	True
+180	9	about	78.0	True
+180	10	on	80.0	True
+180	11	first	80.0	True
+180	12	dates.	80.0	True
+181	1	Why	0.0	True
+181	2	don't	78.0	True
+181	3	you	80.0	True
+181	4	tell	80.0	True
+181	5	me	79.0	True
+181	6	what	78.0	True
+181	7	happened	80.0	True
+181	8	on	79.0	True
+181	9	Saturday,	80.0	True
+181	10	step	80.0	True
+181	11	by	80.0	True
+181	12	step.	80.0	True
+182	1	Emma	0.0	True
+182	2	put	78.0	True
+182	3	her	80.0	True
+182	4	mug	76.0	True
+182	5	of	79.0	True
+182	6	tea	80.0	True
+182	7	down	76.0	True
+182	8	on	80.0	True
+182	9	the	80.0	True
+182	10	table	79.0	True
+182	11	with	78.0	True
+182	12	a	79.0	True
+182	13	bang.	78.0	True
+183	1	Benjamin		False
+183	2	dashed		False
+183	3	out		False
+183	4	of		False
+183	5	the		False
+183	6	door		False
+183	7	and		False
+183	8	glanced		False
+183	9	up		False
+183	10	and		False
+183	11	down		False
+183	12	the		False
+183	13	street.		False
+184	1	Bruce	0.0	True
+184	2	is	80.0	True
+184	3	looking	79.0	True
+184	4	for	80.0	True
+184	5	someone	80.0	True
+184	6	to	76.0	True
+184	7	take	78.0	True
+184	8	the	78.0	True
+184	9	spare	80.0	True
+184	10	room	80.0	True
+184	11	in	79.0	True
+184	12	his	79.0	True
+184	13	flat.	78.0	True
+185	1	From	0.0	True
+185	2	the	80.0	True
+185	3	moment	78.0	True
+185	4	we	78.0	True
+185	5	leave	78.0	True
+185	6	this	78.0	True
+185	7	spot	80.0	True
+185	8	be	80.0	True
+185	9	very	80.0	True
+185	10	careful	80.0	True
+185	11	what	80.0	True
+185	12	you	76.0	True
+185	13	say.	79.0	True
+186	1	He	0.0	True
+186	2	knocked	80.0	True
+186	3	on	79.0	True
+186	4	the	80.0	True
+186	5	door	78.0	True
+186	6	so	78.0	True
+186	7	hard	78.0	True
+186	8	that	78.0	True
+186	9	he	78.0	True
+186	10	almost	79.0	True
+186	11	broke	76.0	True
+186	12	it	80.0	True
+186	13	down.	79.0	True
+187	1	He	0.0	True
+187	2	let	78.0	True
+187	3	Donald	80.0	True
+187	4	go	80.0	True
+187	5	and	79.0	True
+187	6	he	76.0	True
+187	7	fell	80.0	True
+187	8	to	80.0	True
+187	9	the	80.0	True
+187	10	floor	78.0	True
+187	11	with	79.0	True
+187	12	a	80.0	True
+187	13	thud.	76.0	True
+188	1	He	0.0	True
+188	2	smiled	80.0	True
+188	3	again	78.0	True
+188	4	and	76.0	True
+188	5	felt	79.0	True
+188	6	like	80.0	True
+188	7	a	79.0	True
+188	8	man	80.0	True
+188	9	and	79.0	True
+188	10	not	80.0	True
+188	11	just	80.0	True
+188	12	the	80.0	True
+188	13	kid.	80.0	True
+189	1	He's	0.0	True
+189	2	got	80.0	True
+189	3	the	79.0	True
+189	4	ability	80.0	True
+189	5	to	79.0	True
+189	6	work	79.0	True
+189	7	but	78.0	True
+189	8	he	79.0	True
+189	9	just	80.0	True
+189	10	gets	78.0	True
+189	11	bored	78.0	True
+189	12	too	76.0	True
+189	13	easy.	78.0	True
+190	1	Her		False
+190	2	ambition		False
+190	3	offered		False
+190	4	no		False
+190	5	thought		False
+190	6	to		False
+190	7	the		False
+190	8	men		False
+190	9	standing		False
+190	10	behind		False
+190	11	and		False
+190	12	around		False
+190	13	her.		False
+191	1	I	0.0	True
+191	2	can't	80.0	True
+191	3	see	79.0	True
+191	4	any	80.0	True
+191	5	amount	80.0	True
+191	6	of	79.0	True
+191	7	talk	79.0	True
+191	8	getting	80.0	True
+191	9	you	79.0	True
+191	10	out	80.0	True
+191	11	of	78.0	True
+191	12	this	80.0	True
+191	13	mess.	80.0	True
+192	1	I	0.0	True
+192	2	flung	79.0	True
+192	3	out	76.0	True
+192	4	my	78.0	True
+192	5	hands	78.0	True
+192	6	and	80.0	True
+192	7	they	80.0	True
+192	8	said	76.0	True
+192	9	I	80.0	True
+192	10	had	80.0	True
+192	11	broken	80.0	True
+192	12	my	80.0	True
+192	13	wrists.	79.0	True
+193	1	I	0.0	True
+193	2	mostly	78.0	True
+193	3	just	78.0	True
+193	4	pick	80.0	True
+193	5	a	76.0	True
+193	6	dry	79.0	True
+193	7	white	79.0	True
+193	8	and	78.0	True
+193	9	drink	79.0	True
+193	10	it	80.0	True
+193	11	to	80.0	True
+193	12	get	79.0	True
+193	13	drunk.	76.0	True
+194	1	Andy	0.0	True
+194	2	felt	79.0	True
+194	3	good	76.0	True
+194	4	when	79.0	True
+194	5	he	80.0	True
+194	6	got	79.0	True
+194	7	ready	79.0	True
+194	8	to	80.0	True
+194	9	go	76.0	True
+194	10	out	78.0	True
+194	11	on	79.0	True
+194	12	Saturday	79.0	True
+194	13	night.	80.0	True
+195	1	Arthur		False
+195	2	got		False
+195	3	in		False
+195	4	his		False
+195	5	truck		False
+195	6	and		False
+195	7	slammed		False
+195	8	his		False
+195	9	fist		False
+195	10	against		False
+195	11	the		False
+195	12	steering		False
+195	13	wheel.		False
+196	1	Billy	0.0	True
+196	2	knocked	80.0	True
+196	3	on	80.0	True
+196	4	the	79.0	True
+196	5	door	80.0	True
+196	6	and	76.0	True
+196	7	waited	80.0	True
+196	8	till	78.0	True
+196	9	he	76.0	True
+196	10	was	80.0	True
+196	11	told	80.0	True
+196	12	to	80.0	True
+196	13	enter.	80.0	True
+197	1	Bob	0.0	True
+197	2	sat	76.0	True
+197	3	at	80.0	True
+197	4	the	78.0	True
+197	5	entrance	76.0	True
+197	6	to	79.0	True
+197	7	the	80.0	True
+197	8	warehouse	80.0	True
+197	9	and	80.0	True
+197	10	made	80.0	True
+197	11	up	80.0	True
+197	12	a	78.0	True
+197	13	cigarette.	78.0	True
+198	1	Brian	0.0	True
+198	2	sat	79.0	True
+198	3	down	80.0	True
+198	4	at	80.0	True
+198	5	an	80.0	True
+198	6	empty	78.0	True
+198	7	table	80.0	True
+198	8	and	78.0	True
+198	9	began	80.0	True
+198	10	to	79.0	True
+198	11	eat	78.0	True
+198	12	his	80.0	True
+198	13	breakfast.	79.0	True
+199	1	Charlie		False
+199	2	walked		False
+199	3	home		False
+199	4	slowly		False
+199	5	so		False
+199	6	that		False
+199	7	he		False
+199	8	could		False
+199	9	smoke		False
+199	10	one		False
+199	11	of		False
+199	12	his		False
+199	13	cigarettes.		False
+200	1	One	0.0	True
+200	2	by	80.0	True
+200	3	one	78.0	True
+200	4	she	80.0	True
+200	5	placed	80.0	True
+200	6	her	79.0	True
+200	7	teeth	79.0	True
+200	8	about	76.0	True
+200	9	their	76.0	True
+200	10	necks	80.0	True
+200	11	and	80.0	True
+200	12	killed	78.0	True
+200	13	them.	79.0	True
+201	1	The	0.0	True
+201	2	shout	80.0	True
+201	3	caught	76.0	True
+201	4	him	79.0	True
+201	5	off	80.0	True
+201	6	guard	80.0	True
+201	7	and	76.0	True
+201	8	he	79.0	True
+201	9	fell	80.0	True
+201	10	back	76.0	True
+201	11	a	76.0	True
+201	12	little	80.0	True
+201	13	way.	76.0	True
+202	1	They		False
+202	2	probably		False
+202	3	just		False
+202	4	talked		False
+202	5	about		False
+202	6	medieval		False
+202	7	folk		False
+202	8	music		False
+202	9	anyway		False
+202	10	and		False
+202	11	it		False
+202	12	was		False
+202	13	boring.		False
+203	1	Within		False
+203	2	four		False
+203	3	months		False
+203	4	they		False
+203	5	moved		False
+203	6	in		False
+203	7	together		False
+203	8	to		False
+203	9	the		False
+203	10	flat		False
+203	11	on		False
+203	12	Shakespeare		False
+203	13	Road.		False
+204	1	After		False
+204	2	only		False
+204	3	a		False
+204	4	night's		False
+204	5	journey		False
+204	6	by		False
+204	7	sea		False
+204	8	they		False
+204	9	had		False
+204	10	travelled		False
+204	11	into		False
+204	12	the		False
+204	13	South		False
+204	14	proper.		False
+205	1	Every		False
+205	2	free		False
+205	3	man		False
+205	4	had		False
+205	5	a		False
+205	6	right		False
+205	7	to		False
+205	8	speak		False
+205	9	gathered		False
+205	10	at		False
+205	11	the		False
+205	12	calling		False
+205	13	of		False
+205	14	Council.		False
+206	1	He		False
+206	2	had		False
+206	3	a		False
+206	4	headache		False
+206	5	and		False
+206	6	every		False
+206	7	drop		False
+206	8	sounded		False
+206	9	like		False
+206	10	an		False
+206	11	arrow		False
+206	12	piercing		False
+206	13	his		False
+206	14	skull.		False
+207	1	He		False
+207	2	had		False
+207	3	money		False
+207	4	whenever		False
+207	5	he		False
+207	6	wanted		False
+207	7	it		False
+207	8	and		False
+207	9	still		False
+207	10	the		False
+207	11	best		False
+207	12	truck		False
+207	13	in		False
+207	14	town.		False
+208	1	He	0.0	True
+208	2	rose	78.0	True
+208	3	from	78.0	True
+208	4	his	80.0	True
+208	5	seat	76.0	True
+208	6	and	79.0	True
+208	7	stopped	80.0	True
+208	8	mid	78.0	True
+208	9	way	79.0	True
+208	10	when	80.0	True
+208	11	Joe	76.0	True
+208	12	glared	80.0	True
+208	13	at	79.0	True
+208	14	him.	79.0	True
+209	1	He	0.0	True
+209	2	sat	80.0	True
+209	3	his	78.0	True
+209	4	son	79.0	True
+209	5	up	78.0	True
+209	6	on	78.0	True
+209	7	the	80.0	True
+209	8	table	79.0	True
+209	9	and	80.0	True
+209	10	laid	78.0	True
+209	11	his	80.0	True
+209	12	belt	78.0	True
+209	13	beside	80.0	True
+209	14	him.	79.0	True
+210	1	If	0.0	True
+210	2	I	80.0	True
+210	3	have	76.0	True
+210	4	time	80.0	True
+210	5	at	80.0	True
+210	6	the	76.0	True
+210	7	end	80.0	True
+210	8	I'll	78.0	True
+210	9	fill	79.0	True
+210	10	you	79.0	True
+210	11	in	80.0	True
+210	12	on	80.0	True
+210	13	what	80.0	True
+210	14	happened.	80.0	True
+211	1	Chris		False
+211	2	carefully		False
+211	3	carried		False
+211	4	Eddie		False
+211	5	to		False
+211	6	his		False
+211	7	truck		False
+211	8	and		False
+211	9	laid		False
+211	10	him		False
+211	11	on		False
+211	12	the		False
+211	13	back		False
+211	14	seat.		False
+212	1	Colin		False
+212	2	drove		False
+212	3	into		False
+212	4	the		False
+212	5	garage		False
+212	6	to		False
+212	7	wash		False
+212	8	the		False
+212	9	truck		False
+212	10	and		False
+212	11	fill		False
+212	12	it		False
+212	13	with		False
+212	14	petrol.		False
+213	1	David		False
+213	2	finally		False
+213	3	got		False
+213	4	to		False
+213	5	eat		False
+213	6	his		False
+213	7	lunch		False
+213	8	then		False
+213	9	went		False
+213	10	back		False
+213	11	to		False
+213	12	digging		False
+213	13	the		False
+213	14	trench.		False
+214	1	Dennis		False
+214	2	noticed		False
+214	3	someone		False
+214	4	standing		False
+214	5	in		False
+214	6	front		False
+214	7	of		False
+214	8	him		False
+214	9	when		False
+214	10	he		False
+214	11	reached		False
+214	12	for		False
+214	13	another		False
+214	14	log.		False
+215	1	Donald		False
+215	2	sat		False
+215	3	down		False
+215	4	at		False
+215	5	the		False
+215	6	kitchen		False
+215	7	table		False
+215	8	and		False
+215	9	fed		False
+215	10	his		False
+215	11	little		False
+215	12	sister		False
+215	13	her		False
+215	14	bottle.		False
+216	1	Frank		False
+216	2	sighed		False
+216	3	and		False
+216	4	walked		False
+216	5	to		False
+216	6	the		False
+216	7	visiting		False
+216	8	room		False
+216	9	with		False
+216	10	his		False
+216	11	hands		False
+216	12	in		False
+216	13	his		False
+216	14	pockets.		False
+217	1	Fred		False
+217	2	walked		False
+217	3	into		False
+217	4	the		False
+217	5	kitchen		False
+217	6	on		False
+217	7	Saturday		False
+217	8	morning		False
+217	9	to		False
+217	10	find		False
+217	11	his		False
+217	12	mother		False
+217	13	making		False
+217	14	breakfast.		False
+218	1	George		False
+218	2	was		False
+218	3	led		False
+218	4	inside		False
+218	5	and		False
+218	6	they		False
+218	7	made		False
+218	8	him		False
+218	9	strip		False
+218	10	and		False
+218	11	gave		False
+218	12	him		False
+218	13	a		False
+218	14	uniform.		False
+219	1	Harry		False
+219	2	was		False
+219	3	whistling		False
+219	4	and		False
+219	5	singing		False
+219	6	to		False
+219	7	himself		False
+219	8	for		False
+219	9	the		False
+219	10	whole		False
+219	11	of		False
+219	12	the		False
+219	13	next		False
+219	14	day.		False
+220	1	Henry	0.0	True
+220	2	washed	78.0	True
+220	3	his	80.0	True
+220	4	hands	79.0	True
+220	5	and	78.0	True
+220	6	sat	80.0	True
+220	7	on	79.0	True
+220	8	the	80.0	True
+220	9	seat	78.0	True
+220	10	in	80.0	True
+220	11	front	80.0	True
+220	12	of	79.0	True
+220	13	the	80.0	True
+220	14	stove.	79.0	True
+221	1	She		False
+221	2	tried		False
+221	3	hard		False
+221	4	to		False
+221	5	bring		False
+221	6	him		False
+221	7	up		False
+221	8	right		False
+221	9	and		False
+221	10	teach		False
+221	11	him		False
+221	12	right		False
+221	13	from		False
+221	14	wrong.		False
+222	1	The		False
+222	2	bored		False
+222	3	soldier		False
+222	4	pressed		False
+222	5	a		False
+222	6	button		False
+222	7	which		False
+222	8	opened		False
+222	9	the		False
+222	10	gate		False
+222	11	and		False
+222	12	allowed		False
+222	13	them		False
+222	14	in.		False
+223	1	The		False
+223	2	curious		False
+223	3	thing		False
+223	4	was,		False
+223	5	on		False
+223	6	the		False
+223	7	Friday		False
+223	8	night,		False
+223	9	that		False
+223	10	the		False
+223	11	garden		False
+223	12	gate		False
+223	13	was		False
+223	14	shut.		False
+224	1	The		False
+224	2	first		False
+224	3	thing		False
+224	4	she		False
+224	5	noticed		False
+224	6	when		False
+224	7	she		False
+224	8	walked		False
+224	9	into		False
+224	10	the		False
+224	11	house		False
+224	12	was		False
+224	13	the		False
+224	14	silence.		False
+225	1	The	0.0	True
+225	2	police	79.0	True
+225	3	officer	80.0	True
+225	4	got	79.0	True
+225	5	out	78.0	True
+225	6	of	79.0	True
+225	7	the	80.0	True
+225	8	van	79.0	True
+225	9	and	80.0	True
+225	10	picked	76.0	True
+225	11	up	80.0	True
+225	12	the	78.0	True
+225	13	two	79.0	True
+225	14	cans.	80.0	True
+226	1	The	0.0	True
+226	2	speaker	78.0	True
+226	3	turned	80.0	True
+226	4	to	76.0	True
+226	5	her	80.0	True
+226	6	with	80.0	True
+226	7	a	80.0	True
+226	8	smile	79.0	True
+226	9	and	78.0	True
+226	10	a	80.0	True
+226	11	bow	78.0	True
+226	12	of	80.0	True
+226	13	his	79.0	True
+226	14	head.	79.0	True
+227	1	They	0.0	True
+227	2	say	80.0	True
+227	3	he	80.0	True
+227	4	can	80.0	True
+227	5	breathe	76.0	True
+227	6	fire	78.0	True
+227	7	and	79.0	True
+227	8	kill	78.0	True
+227	9	a	78.0	True
+227	10	man	80.0	True
+227	11	with	79.0	True
+227	12	a	79.0	True
+227	13	single	78.0	True
+227	14	word.	80.0	True
+228	1	When		False
+228	2	she		False
+228	3	had		False
+228	4	fallen,		False
+228	5	the		False
+228	6	witnesses		False
+228	7	to		False
+228	8	her		False
+228	9	death		False
+228	10	would		False
+228	11	have		False
+228	12	cut		False
+228	13	her		False
+228	14	apart.		False
+229	1	He	0.0	True
+229	2	came	80.0	True
+229	3	back	79.0	True
+229	4	to	78.0	True
+229	5	his	79.0	True
+229	6	senses	78.0	True
+229	7	when	79.0	True
+229	8	he	78.0	True
+229	9	heard	78.0	True
+229	10	his	79.0	True
+229	11	dad	78.0	True
+229	12	stand	79.0	True
+229	13	up	79.0	True
+229	14	to	79.0	True
+229	15	him.	80.0	True
+230	1	He		False
+230	2	could		False
+230	3	hear		False
+230	4	men		False
+230	5	shouting,		False
+230	6	screaming		False
+230	7	as		False
+230	8	though		False
+230	9	all		False
+230	10	of		False
+230	11	hell		False
+230	12	was		False
+230	13	at		False
+230	14	their		False
+230	15	heels.		False
+231	1	He		False
+231	2	did		False
+231	3	as		False
+231	4	he		False
+231	5	was		False
+231	6	told		False
+231	7	and		False
+231	8	tucked		False
+231	9	in		False
+231	10	his		False
+231	11	shirt		False
+231	12	and		False
+231	13	straightened		False
+231	14	his		False
+231	15	tie.		False
+232	1	He		False
+232	2	had		False
+232	3	jobs		False
+232	4	and		False
+232	5	lost		False
+232	6	jobs,		False
+232	7	he		False
+232	8	never		False
+232	9	had		False
+232	10	what		False
+232	11	you		False
+232	12	could		False
+232	13	call		False
+232	14	a		False
+232	15	career.		False
+233	1	He		False
+233	2	put		False
+233	3	his		False
+233	4	hand		False
+233	5	on		False
+233	6	the		False
+233	7	little		False
+233	8	boy's		False
+233	9	shoulder		False
+233	10	and		False
+233	11	gave		False
+233	12	it		False
+233	13	an		False
+233	14	encouraging		False
+233	15	squeeze.		False
+234	1	He	0.0	True
+234	2	was	76.0	True
+234	3	already	80.0	True
+234	4	up	76.0	True
+234	5	and	76.0	True
+234	6	dressed	79.0	True
+234	7	and	79.0	True
+234	8	invited	79.0	True
+234	9	us	80.0	True
+234	10	in	80.0	True
+234	11	for	79.0	True
+234	12	a	78.0	True
+234	13	cup	78.0	True
+234	14	of	79.0	True
+234	15	tea.	80.0	True
+235	1	His		False
+235	2	smile		False
+235	3	soon		False
+235	4	faded		False
+235	5	to		False
+235	6	a		False
+235	7	frown		False
+235	8	when		False
+235	9	he		False
+235	10	heard		False
+235	11	what		False
+235	12	Keith		False
+235	13	had		False
+235	14	to		False
+235	15	say.		False
+236	1	I		False
+236	2	ask		False
+236	3	that		False
+236	4	my		False
+236	5	people		False
+236	6	be		False
+236	7	allowed		False
+236	8	to		False
+236	9	stay		False
+236	10	behind		False
+236	11	and		False
+236	12	tend		False
+236	13	to		False
+236	14	the		False
+236	15	wounded.		False
+237	1	I		False
+237	2	haven't		False
+237	3	lost		False
+237	4	a		False
+237	5	single		False
+237	6	man		False
+237	7	though		False
+237	8	they're		False
+237	9	hardly		False
+237	10	in		False
+237	11	a		False
+237	12	fit		False
+237	13	state		False
+237	14	to		False
+237	15	fight.		False
+238	1	I	0.0	True
+238	2	know	80.0	True
+238	3	Richard	80.0	True
+238	4	drinks	78.0	True
+238	5	a	80.0	True
+238	6	little	78.0	True
+238	7	too	80.0	True
+238	8	much	78.0	True
+238	9	and	80.0	True
+238	10	has	80.0	True
+238	11	a	80.0	True
+238	12	bit	80.0	True
+238	13	of	79.0	True
+238	14	a	80.0	True
+238	15	temper.	79.0	True
+239	1	I		False
+239	2	remember		False
+239	3	an		False
+239	4	agent		False
+239	5	with		False
+239	6	no		False
+239	7	arms		False
+239	8	who		False
+239	9	could		False
+239	10	kill		False
+239	11	a		False
+239	12	man		False
+239	13	with		False
+239	14	his		False
+239	15	teeth.		False
+240	1	If	0.0	True
+240	2	this	79.0	True
+240	3	were	76.0	True
+240	4	a	79.0	True
+240	5	movie	78.0	True
+240	6	instead	79.0	True
+240	7	of	79.0	True
+240	8	a	76.0	True
+240	9	book	80.0	True
+240	10	this	76.0	True
+240	11	would	80.0	True
+240	12	be	80.0	True
+240	13	a	79.0	True
+240	14	good	78.0	True
+240	15	bit.	79.0	True
+241	1	If		False
+241	2	you		False
+241	3	haven't		False
+241	4	seen		False
+241	5	it		False
+241	6	yet		False
+241	7	all		False
+241	8	that		False
+241	9	means		False
+241	10	is		False
+241	11	you		False
+241	12	aren't		False
+241	13	looking		False
+241	14	hard		False
+241	15	enough.		False
+242	1	Kevin		False
+242	2	had		False
+242	3	struck		False
+242	4	the		False
+242	5	belt		False
+242	6	across		False
+242	7	his		False
+242	8	legs		False
+242	9	and		False
+242	10	hit		False
+242	11	his		False
+242	12	fingers		False
+242	13	in		False
+242	14	the		False
+242	15	process.		False
+243	1	Hugh		False
+243	2	got		False
+243	3	up		False
+243	4	and		False
+243	5	picked		False
+243	6	up		False
+243	7	the		False
+243	8	bucket		False
+243	9	and		False
+243	10	placed		False
+243	11	it		False
+243	12	back		False
+243	13	on		False
+243	14	the		False
+243	15	floor.		False
+244	1	Ian		False
+244	2	sighed		False
+244	3	when		False
+244	4	Howard		False
+244	5	handed		False
+244	6	him		False
+244	7	the		False
+244	8	brush		False
+244	9	and		False
+244	10	sent		False
+244	11	him		False
+244	12	out		False
+244	13	to		False
+244	14	the		False
+244	15	yard.		False
+245	1	James	0.0	True
+245	2	was	78.0	True
+245	3	only	79.0	True
+245	4	in	79.0	True
+245	5	the	78.0	True
+245	6	cell	78.0	True
+245	7	for	79.0	True
+245	8	an	79.0	True
+245	9	hour	80.0	True
+245	10	but	80.0	True
+245	11	it	78.0	True
+245	12	felt	79.0	True
+245	13	like	79.0	True
+245	14	a	79.0	True
+245	15	week.	76.0	True
+246	1	Somehow		False
+246	2	Jason		False
+246	3	just		False
+246	4	kept		False
+246	5	quiet		False
+246	6	and		False
+246	7	did		False
+246	8	as		False
+246	9	they		False
+246	10	told		False
+246	11	him		False
+246	12	without		False
+246	13	any		False
+246	14	smart		False
+246	15	comments.		False
+247	1	That		False
+247	2	night		False
+247	3	he		False
+247	4	had		False
+247	5	never		False
+247	6	felt		False
+247	7	so		False
+247	8	scared		False
+247	9	since		False
+247	10	he		False
+247	11	had		False
+247	12	been		False
+247	13	sent		False
+247	14	to		False
+247	15	prison.		False
+248	1	To		False
+248	2	his		False
+248	3	mum		False
+248	4	and		False
+248	5	dad		False
+248	6	he		False
+248	7	was		False
+248	8	just		False
+248	9	another		False
+248	10	mouth		False
+248	11	they		False
+248	12	couldn't		False
+248	13	afford		False
+248	14	to		False
+248	15	feed.		False
+249	1	A		False
+249	2	smart		False
+249	3	efficient		False
+249	4	looking		False
+249	5	girl		False
+249	6	in		False
+249	7	a		False
+249	8	military		False
+249	9	uniform		False
+249	10	sat		False
+249	11	behind		False
+249	12	a		False
+249	13	desk		False
+249	14	reading		False
+249	15	Heat		False
+249	16	magazine.		False
+250	1	Jane		False
+250	2	had		False
+250	3	worn		False
+250	4	a		False
+250	5	suit		False
+250	6	in		False
+250	7	the		False
+250	8	belief		False
+250	9	that		False
+250	10	it		False
+250	11	might		False
+250	12	make		False
+250	13	her		False
+250	14	look		False
+250	15	less		False
+250	16	suspicious.		False
+251	1	At		False
+251	2	ground		False
+251	3	level,		False
+251	4	by		False
+251	5	the		False
+251	6	wall,		False
+251	7	a		False
+251	8	ditch		False
+251	9	gathered		False
+251	10	water		False
+251	11	and		False
+251	12	dead		False
+251	13	rats		False
+251	14	crowded		False
+251	15	the		False
+251	16	ground.		False
+252	1	He		False
+252	2	turned		False
+252	3	to		False
+252	4	the		False
+252	5	crowd		False
+252	6	who		False
+252	7	stood		False
+252	8	quietly		False
+252	9	waiting		False
+252	10	to		False
+252	11	see		False
+252	12	how		False
+252	13	the		False
+252	14	battle		False
+252	15	would		False
+252	16	turn.		False
+253	1	He		False
+253	2	walked		False
+253	3	into		False
+253	4	the		False
+253	5	kitchen		False
+253	6	a		False
+253	7	while		False
+253	8	after		False
+253	9	dinner		False
+253	10	dressed		False
+253	11	in		False
+253	12	his		False
+253	13	best		False
+253	14	jeans		False
+253	15	and		False
+253	16	shirt.		False
+254	1	I		False
+254	2	would		False
+254	3	not		False
+254	4	have		False
+254	5	you		False
+254	6	abandon		False
+254	7	what		False
+254	8	we		False
+254	9	have		False
+254	10	won		False
+254	11	to		False
+254	12	chase		False
+254	13	after		False
+254	14	that		False
+254	15	woman's		False
+254	16	life.		False
+255	1	If		False
+255	2	they		False
+255	3	don't		False
+255	4	approach		False
+255	5	me		False
+255	6	at		False
+255	7	any		False
+255	8	of		False
+255	9	those		False
+255	10	places		False
+255	11	then		False
+255	12	we'll		False
+255	13	know		False
+255	14	they		False
+255	15	don't		False
+255	16	care.		False
+256	1	Just		False
+256	2	as		False
+256	3	he		False
+256	4	was		False
+256	5	about		False
+256	6	to		False
+256	7	give		False
+256	8	up		False
+256	9	and		False
+256	10	go		False
+256	11	back		False
+256	12	he		False
+256	13	heard		False
+256	14	a		False
+256	15	second		False
+256	16	noise.		False
+257	1	No		False
+257	2	one		False
+257	3	had		False
+257	4	ever		False
+257	5	cared		False
+257	6	about		False
+257	7	him		False
+257	8	so		False
+257	9	much		False
+257	10	as		False
+257	11	to		False
+257	12	threaten		False
+257	13	his		False
+257	14	dad		False
+257	15	like		False
+257	16	that.		False
+258	1	She		False
+258	2	is		False
+258	3	wearing		False
+258	4	a		False
+258	5	cardigan		False
+258	6	over		False
+258	7	a		False
+258	8	purple		False
+258	9	blouse		False
+258	10	and		False
+258	11	a		False
+258	12	faded		False
+258	13	old		False
+258	14	red		False
+258	15	cotton		False
+258	16	skirt.		False
+259	1	She		False
+259	2	was		False
+259	3	served		False
+259	4	by		False
+259	5	an		False
+259	6	incredibly		False
+259	7	striking		False
+259	8	girl		False
+259	9	with		False
+259	10	bright		False
+259	11	blue		False
+259	12	hair		False
+259	13	and		False
+259	14	a		False
+259	15	Polish		False
+259	16	accent.		False
+260	1	The		False
+260	2	longer		False
+260	3	you		False
+260	4	waste		False
+260	5	time		False
+260	6	in		False
+260	7	talk,		False
+260	8	the		False
+260	9	more		False
+260	10	certain		False
+260	11	it		False
+260	12	is		False
+260	13	that		False
+260	14	you		False
+260	15	will		False
+260	16	lose.		False
+261	1	They		False
+261	2	followed		False
+261	3	the		False
+261	4	stairs		False
+261	5	down		False
+261	6	two		False
+261	7	flights		False
+261	8	and		False
+261	9	walked		False
+261	10	through		False
+261	11	a		False
+261	12	door		False
+261	13	into		False
+261	14	a		False
+261	15	reception		False
+261	16	room.		False
+262	1	We		False
+262	2	don't		False
+262	3	even		False
+262	4	need		False
+262	5	to		False
+262	6	build		False
+262	7	the		False
+262	8	boat,		False
+262	9	the		False
+262	10	native		False
+262	11	villagers		False
+262	12	have		False
+262	13	plenty		False
+262	14	that		False
+262	15	would		False
+262	16	do.		False
+263	1	As		False
+263	2	soon		False
+263	3	as		False
+263	4	they		False
+263	5	taste		False
+263	6	cold		False
+263	7	steel		False
+263	8	they'll		False
+263	9	flee		False
+263	10	back		False
+263	11	to		False
+263	12	their		False
+263	13	mountains		False
+263	14	as		False
+263	15	they		False
+263	16	did		False
+263	17	before.		False
+264	1	Don't		False
+264	2	tell		False
+264	3	me		False
+264	4	any		False
+264	5	more		False
+264	6	about		False
+264	7	the		False
+264	8	crime,		False
+264	9	in		False
+264	10	fact,		False
+264	11	don't		False
+264	12	tell		False
+264	13	me		False
+264	14	any		False
+264	15	more		False
+264	16	full		False
+264	17	stop.		False
+265	1	He		False
+265	2	sets		False
+265	3	out		False
+265	4	to		False
+265	5	prove		False
+265	6	them		False
+265	7	wrong		False
+265	8	by		False
+265	9	holding		False
+265	10	down		False
+265	11	a		False
+265	12	job		False
+265	13	and		False
+265	14	trying		False
+265	15	to		False
+265	16	act		False
+265	17	responsible.		False
+266	1	In		False
+266	2	a		False
+266	3	moment,		False
+266	4	before		False
+266	5	anyone		False
+266	6	could		False
+266	7	stop		False
+266	8	him,		False
+266	9	he		False
+266	10	had		False
+266	11	driven		False
+266	12	his		False
+266	13	sword		False
+266	14	into		False
+266	15	his		False
+266	16	own		False
+266	17	stomach.		False
+267	1	Joe		False
+267	2	had		False
+267	3	survived		False
+267	4	his		False
+267	5	first		False
+267	6	week		False
+267	7	of		False
+267	8	work		False
+267	9	and		False
+267	10	felt		False
+267	11	good		False
+267	12	to		False
+267	13	have		False
+267	14	money		False
+267	15	in		False
+267	16	his		False
+267	17	pocket.		False
+268	1	Keith		False
+268	2	walked		False
+268	3	into		False
+268	4	the		False
+268	5	cell		False
+268	6	and		False
+268	7	climbed		False
+268	8	up		False
+268	9	on		False
+268	10	his		False
+268	11	bed		False
+268	12	and		False
+268	13	lay		False
+268	14	staring		False
+268	15	at		False
+268	16	the		False
+268	17	ceiling.		False
+269	1	Douglas		False
+269	2	followed		False
+269	3	his		False
+269	4	father		False
+269	5	to		False
+269	6	his		False
+269	7	office		False
+269	8	and		False
+269	9	Kevin		False
+269	10	knew		False
+269	11	from		False
+269	12	looking		False
+269	13	in		False
+269	14	the		False
+269	15	window		False
+269	16	they		False
+269	17	were		False
+269	18	arguing.		False
+270	1	He		False
+270	2	had		False
+270	3	lived		False
+270	4	with		False
+270	5	his		False
+270	6	mother		False
+270	7	till		False
+270	8	she		False
+270	9	died		False
+270	10	after		False
+270	11	a		False
+270	12	long		False
+270	13	and		False
+270	14	painful		False
+270	15	fight		False
+270	16	with		False
+270	17	lung		False
+270	18	cancer.		False
+271	1	He		False
+271	2	had		False
+271	3	to		False
+271	4	get		False
+271	5	himself		False
+271	6	in		False
+271	7	gear		False
+271	8	and		False
+271	9	stop		False
+271	10	getting		False
+271	11	into		False
+271	12	trouble		False
+271	13	and		False
+271	14	this		False
+271	15	time		False
+271	16	he		False
+271	17	meant		False
+271	18	it.		False
+272	1	He		False
+272	2	had		False
+272	3	walked		False
+272	4	so		False
+272	5	far		False
+272	6	since		False
+272	7	the		False
+272	8	battle		False
+272	9	and		False
+272	10	every		False
+272	11	step		False
+272	12	now		False
+272	13	seemed		False
+272	14	to		False
+272	15	him		False
+272	16	like		False
+272	17	a		False
+272	18	year.		False
+273	1	He		False
+273	2	put		False
+273	3	his		False
+273	4	hands		False
+273	5	to		False
+273	6	his		False
+273	7	sword		False
+273	8	and		False
+273	9	heard		False
+273	10	the		False
+273	11	song		False
+273	12	rush		False
+273	13	through		False
+273	14	his		False
+273	15	blood		False
+273	16	louder		False
+273	17	than		False
+273	18	ever.		False
+274	1	He		False
+274	2	stared		False
+274	3	down		False
+274	4	the		False
+274	5	narrow		False
+274	6	pass		False
+274	7	as		False
+274	8	though		False
+274	9	expecting		False
+274	10	some		False
+274	11	challenge		False
+274	12	to		False
+274	13	issue		False
+274	14	from		False
+274	15	the		False
+274	16	mouth		False
+274	17	of		False
+274	18	it.		False
+275	1	He		False
+275	2	walked		False
+275	3	up		False
+275	4	to		False
+275	5	the		False
+275	6	office		False
+275	7	and		False
+275	8	knocked		False
+275	9	on		False
+275	10	the		False
+275	11	door		False
+275	12	waiting		False
+275	13	till		False
+275	14	he		False
+275	15	was		False
+275	16	told		False
+275	17	to		False
+275	18	enter.		False
+276	1	I		False
+276	2	didn't		False
+276	3	read		False
+276	4	the		False
+276	5	local		False
+276	6	papers		False
+276	7	and		False
+276	8	neither		False
+276	9	did		False
+276	10	my		False
+276	11	parents		False
+276	12	so		False
+276	13	I		False
+276	14	had		False
+276	15	not		False
+276	16	heard		False
+276	17	about		False
+276	18	it.		False
+277	1	Luke		False
+277	2	kicked		False
+277	3	off		False
+277	4	his		False
+277	5	boots		False
+277	6	and		False
+277	7	shrugged		False
+277	8	off		False
+277	9	his		False
+277	10	jacket		False
+277	11	and		False
+277	12	slammed		False
+277	13	his		False
+277	14	cap		False
+277	15	down		False
+277	16	on		False
+277	17	the		False
+277	18	hook.		False
+278	1	Malcolm		False
+278	2	woke		False
+278	3	Lewis		False
+278	4	at		False
+278	5	six		False
+278	6	in		False
+278	7	the		False
+278	8	morning		False
+278	9	and		False
+278	10	told		False
+278	11	him		False
+278	12	to		False
+278	13	wear		False
+278	14	his		False
+278	15	worst		False
+278	16	jeans		False
+278	17	and		False
+278	18	shirt.		False
+279	1	Mark		False
+279	2	stopped		False
+279	3	in		False
+279	4	his		False
+279	5	tracks		False
+279	6	on		False
+279	7	the		False
+279	8	way		False
+279	9	to		False
+279	10	the		False
+279	11	table		False
+279	12	and		False
+279	13	stood		False
+279	14	in		False
+279	15	front		False
+279	16	of		False
+279	17	the		False
+279	18	stove.		False
+280	1	Martin		False
+280	2	went		False
+280	3	to		False
+280	4	get		False
+280	5	washed		False
+280	6	up		False
+280	7	for		False
+280	8	lunch		False
+280	9	then		False
+280	10	spent		False
+280	11	the		False
+280	12	afternoon		False
+280	13	working		False
+280	14	on		False
+280	15	the		False
+280	16	extension		False
+280	17	with		False
+280	18	Mark.		False
+281	1	The		False
+281	2	driver		False
+281	3	slowed		False
+281	4	down,		False
+281	5	pulled		False
+281	6	over		False
+281	7	and		False
+281	8	got		False
+281	9	out,		False
+281	10	which		False
+281	11	was		False
+281	12	really		False
+281	13	a		False
+281	14	terrible		False
+281	15	mistake		False
+281	16	on		False
+281	17	his		False
+281	18	part.		False
+282	1	The		False
+282	2	people		False
+282	3	need		False
+282	4	a		False
+282	5	champion		False
+282	6	to		False
+282	7	follow,		False
+282	8	to		False
+282	9	open		False
+282	10	the		False
+282	11	wall		False
+282	12	in		False
+282	13	battle		False
+282	14	and		False
+282	15	give		False
+282	16	them		False
+282	17	an		False
+282	18	opening.		False
+283	1	Whenever		False
+283	2	she		False
+283	3	and		False
+283	4	Clark		False
+283	5	had		False
+283	6	tried		False
+283	7	to		False
+283	8	talk		False
+283	9	just		False
+283	10	between		False
+283	11	the		False
+283	12	two		False
+283	13	of		False
+283	14	them		False
+283	15	the		False
+283	16	subject		False
+283	17	had		False
+283	18	wandered.		False
+284	1	Colin		False
+284	2	and		False
+284	3	Julie		False
+284	4	walked		False
+284	5	across		False
+284	6	a		False
+284	7	parade		False
+284	8	ground		False
+284	9	past		False
+284	10	a		False
+284	11	lot		False
+284	12	of		False
+284	13	men		False
+284	14	walking		False
+284	15	around		False
+284	16	in		False
+284	17	uniform		False
+284	18	carrying		False
+284	19	guns.		False
+285	1	Damian		False
+285	2	is		False
+285	3	not		False
+285	4	normally		False
+285	5	a		False
+285	6	man		False
+285	7	of		False
+285	8	action		False
+285	9	so		False
+285	10	now,		False
+285	11	stirred		False
+285	12	into		False
+285	13	action,		False
+285	14	he		False
+285	15	looks		False
+285	16	like		False
+285	17	he		False
+285	18	means		False
+285	19	business.		False
+286	1	Derek		False
+286	2	reached		False
+286	3	for		False
+286	4	the		False
+286	5	statement		False
+286	6	and		False
+286	7	placed		False
+286	8	it		False
+286	9	in		False
+286	10	a		False
+286	11	more		False
+286	12	prominent		False
+286	13	position,		False
+286	14	the		False
+286	15	better		False
+286	16	to		False
+286	17	remember		False
+286	18	it		False
+286	19	later.		False
+287	1	Dick		False
+287	2	sat		False
+287	3	down		False
+287	4	at		False
+287	5	the		False
+287	6	table		False
+287	7	and		False
+287	8	took		False
+287	9	the		False
+287	10	cup		False
+287	11	of		False
+287	12	tea		False
+287	13	that		False
+287	14	Karen		False
+287	15	placed		False
+287	16	in		False
+287	17	front		False
+287	18	of		False
+287	19	him.		False
+288	1	Henry		False
+288	2	came		False
+288	3	out		False
+288	4	of		False
+288	5	his		False
+288	6	office		False
+288	7	and		False
+288	8	found		False
+288	9	Neil		False
+288	10	standing		False
+288	11	against		False
+288	12	the		False
+288	13	wall		False
+288	14	with		False
+288	15	his		False
+288	16	hands		False
+288	17	in		False
+288	18	his		False
+288	19	pockets.		False
+289	1	He		False
+289	2	could		False
+289	3	tell		False
+289	4	by		False
+289	5	the		False
+289	6	look		False
+289	7	of		False
+289	8	him		False
+289	9	and		False
+289	10	his		False
+289	11	actions		False
+289	12	that		False
+289	13	Robert		False
+289	14	had		False
+289	15	been		False
+289	16	hitting		False
+289	17	the		False
+289	18	drink		False
+289	19	again.		False
+290	1	He		False
+290	2	owned		False
+290	3	the		False
+290	4	garage		False
+290	5	in		False
+290	6	town		False
+290	7	and		False
+290	8	was		False
+290	9	trusted		False
+290	10	to		False
+290	11	do		False
+290	12	maintenance		False
+290	13	on		False
+290	14	all		False
+290	15	the		False
+290	16	cars		False
+290	17	in		False
+290	18	the		False
+290	19	village.		False
+291	1	Rachel		False
+291	2	for		False
+291	3	no		False
+291	4	reason		False
+291	5	at		False
+291	6	all		False
+291	7	dropped		False
+291	8	the		False
+291	9	fish		False
+291	10	slice		False
+291	11	on		False
+291	12	the		False
+291	13	floor		False
+291	14	and		False
+291	15	ran		False
+291	16	from		False
+291	17	the		False
+291	18	room		False
+291	19	crying.		False
+292	1	I		False
+292	2	am		False
+292	3	a		False
+292	4	man		False
+292	5	of		False
+292	6	the		False
+292	7	dead		False
+292	8	and		False
+292	9	I		False
+292	10	have		False
+292	11	felt		False
+292	12	the		False
+292	13	anguish		False
+292	14	of		False
+292	15	those		False
+292	16	passing		False
+292	17	through		False
+292	18	my		False
+292	19	hands.		False
+293	1	Martin		False
+293	2	decided		False
+293	3	to		False
+293	4	step		False
+293	5	in		False
+293	6	when		False
+293	7	they		False
+293	8	asked		False
+293	9	everyone		False
+293	10	but		False
+293	11	Nigel		False
+293	12	along		False
+293	13	for		False
+293	14	a		False
+293	15	pint		False
+293	16	after		False
+293	17	work		False
+293	18	on		False
+293	19	Friday.		False
+294	1	Matt		False
+294	2	thought		False
+294	3	the		False
+294	4	best		False
+294	5	way		False
+294	6	to		False
+294	7	have		False
+294	8	a		False
+294	9	talk		False
+294	10	with		False
+294	11	Patrick		False
+294	12	would		False
+294	13	be		False
+294	14	to		False
+294	15	take		False
+294	16	him		False
+294	17	for		False
+294	18	a		False
+294	19	pint.		False
+295	1	We		False
+295	2	could		False
+295	3	not		False
+295	4	keep		False
+295	5	them		False
+295	6	in		False
+295	7	the		False
+295	8	country,		False
+295	9	they		False
+295	10	had		False
+295	11	farms		False
+295	12	to		False
+295	13	return		False
+295	14	to,		False
+295	15	services		False
+295	16	drawing		False
+295	17	to		False
+295	18	an		False
+295	19	end.		False
+296	1	As		False
+296	2	soon		False
+296	3	as		False
+296	4	I		False
+296	5	got		False
+296	6	off		False
+296	7	the		False
+296	8	phone		False
+296	9	with		False
+296	10	the		False
+296	11	pet		False
+296	12	store		False
+296	13	man		False
+296	14	I		False
+296	15	rang		False
+296	16	Gerry		False
+296	17	and		False
+296	18	told		False
+296	19	him		False
+296	20	everything.		False
+297	1	Graham		False
+297	2	took		False
+297	3	a		False
+297	4	long		False
+297	5	drink		False
+297	6	from		False
+297	7	his		False
+297	8	beer		False
+297	9	as		False
+297	10	if		False
+297	11	to		False
+297	12	signal		False
+297	13	that		False
+297	14	that		False
+297	15	was		False
+297	16	an		False
+297	17	end		False
+297	18	to		False
+297	19	the		False
+297	20	matter.		False
+298	1	Harvey		False
+298	2	longed		False
+298	3	for		False
+298	4	a		False
+298	5	son		False
+298	6	to		False
+298	7	carry		False
+298	8	on		False
+298	9	the		False
+298	10	family		False
+298	11	name		False
+298	12	and		False
+298	13	talked		False
+298	14	of		False
+298	15	little		False
+298	16	else		False
+298	17	in		False
+298	18	his		False
+298	19	letters		False
+298	20	home.		False
+299	1	He		False
+299	2	slumped		False
+299	3	down		False
+299	4	on		False
+299	5	the		False
+299	6	chair		False
+299	7	by		False
+299	8	the		False
+299	9	fire		False
+299	10	in		False
+299	11	a		False
+299	12	heap		False
+299	13	like		False
+299	14	his		False
+299	15	whole		False
+299	16	body		False
+299	17	had		False
+299	18	suddenly		False
+299	19	got		False
+299	20	heavy.		False
+300	1	He		False
+300	2	stood		False
+300	3	up		False
+300	4	as		False
+300	5	straight		False
+300	6	as		False
+300	7	he		False
+300	8	could		False
+300	9	with		False
+300	10	his		False
+300	11	hands		False
+300	12	behind		False
+300	13	his		False
+300	14	back		False
+300	15	and		False
+300	16	tried		False
+300	17	not		False
+300	18	to		False
+300	19	look		False
+300	20	scared.		False
+301	1	He		False
+301	2	wrenched		False
+301	3	one		False
+301	4	arm		False
+301	5	from		False
+301	6	the		False
+301	7	man's		False
+301	8	grasp		False
+301	9	and		False
+301	10	used		False
+301	11	it		False
+301	12	to		False
+301	13	pull		False
+301	14	the		False
+301	15	man's		False
+301	16	ankles		False
+301	17	out		False
+301	18	from		False
+301	19	beneath		False
+301	20	him.		False
+302	1	His		False
+302	2	lips		False
+302	3	were		False
+302	4	blue		False
+302	5	and		False
+302	6	though		False
+302	7	just		False
+302	8	conscious		False
+302	9	he		False
+302	10	was		False
+302	11	in		False
+302	12	no		False
+302	13	shape		False
+302	14	to		False
+302	15	walk,		False
+302	16	talk		False
+302	17	or		False
+302	18	even		False
+302	19	breathe		False
+302	20	well.		False
+303	1	I		False
+303	2	considered		False
+303	3	it		False
+303	4	to		False
+303	5	be		False
+303	6	the		False
+303	7	minimum		False
+303	8	information		False
+303	9	I		False
+303	10	could		False
+303	11	give		False
+303	12	out		False
+303	13	in		False
+303	14	order		False
+303	15	to		False
+303	16	bring		False
+303	17	the		False
+303	18	situation		False
+303	19	under		False
+303	20	control.		False
+304	1	The		False
+304	2	next		False
+304	3	night		False
+304	4	after		False
+304	5	tea		False
+304	6	and		False
+304	7	locked		False
+304	8	in		False
+304	9	the		False
+304	10	cell		False
+304	11	for		False
+304	12	the		False
+304	13	night,		False
+304	14	Paul		False
+304	15	decided		False
+304	16	to		False
+304	17	write		False
+304	18	to		False
+304	19	his		False
+304	20	mum.		False
+305	1	The		False
+305	2	water		False
+305	3	of		False
+305	4	the		False
+305	5	river		False
+305	6	seems		False
+305	7	to		False
+305	8	battle		False
+305	9	against		False
+305	10	the		False
+305	11	army,		False
+305	12	dragging		False
+305	13	at		False
+305	14	their		False
+305	15	legs,		False
+305	16	trying		False
+305	17	to		False
+305	18	pull		False
+305	19	them		False
+305	20	under.		False
+306	1	They		False
+306	2	had		False
+306	3	been		False
+306	4	allowing		False
+306	5	their		False
+306	6	voices		False
+306	7	to		False
+306	8	rise		False
+306	9	and		False
+306	10	as		False
+306	11	the		False
+306	12	debate		False
+306	13	continued		False
+306	14	the		False
+306	15	rest		False
+306	16	of		False
+306	17	the		False
+306	18	crowd		False
+306	19	caught		False
+306	20	on.		False
+307	1	They		False
+307	2	stop		False
+307	3	in		False
+307	4	the		False
+307	5	nearest		False
+307	6	village		False
+307	7	to		False
+307	8	water		False
+307	9	the		False
+307	10	horses		False
+307	11	but		False
+307	12	the		False
+307	13	men		False
+307	14	must		False
+307	15	do		False
+307	16	without		False
+307	17	if		False
+307	18	they		False
+307	19	mind		False
+307	20	sharing.		False
+308	1	To		False
+308	2	one		False
+308	3	side,		False
+308	4	out		False
+308	5	of		False
+308	6	sight		False
+308	7	of		False
+308	8	the		False
+308	9	priests		False
+308	10	on		False
+308	11	the		False
+308	12	steps		False
+308	13	of		False
+308	14	their		False
+308	15	temple,		False
+308	16	was		False
+308	17	a		False
+308	18	circle		False
+308	19	of		False
+308	20	stones.		False
+309	1	We		False
+309	2	have		False
+309	3	been		False
+309	4	given		False
+309	5	this		False
+309	6	voice,		False
+309	7	in		False
+309	8	a		False
+309	9	language		False
+309	10	that		False
+309	11	is		False
+309	12	not		False
+309	13	our		False
+309	14	own,		False
+309	15	with		False
+309	16	which		False
+309	17	to		False
+309	18	tell		False
+309	19	our		False
+309	20	story.		False
+310	1	He		False
+310	2	carries		False
+310	3	an		False
+310	4	axe		False
+310	5	as		False
+310	6	long		False
+310	7	as		False
+310	8	your		False
+310	9	arm		False
+310	10	and		False
+310	11	he		False
+310	12	can		False
+310	13	split		False
+310	14	a		False
+310	15	man		False
+310	16	from		False
+310	17	head		False
+310	18	to		False
+310	19	toe		False
+310	20	with		False
+310	21	it.		False
+311	1	He		False
+311	2	ought		False
+311	3	to		False
+311	4	have		False
+311	5	seen		False
+311	6	the		False
+311	7	patrol		False
+311	8	coming,		False
+311	9	should		False
+311	10	have		False
+311	11	spotted		False
+311	12	their		False
+311	13	track,		False
+311	14	noticed		False
+311	15	the		False
+311	16	way		False
+311	17	the		False
+311	18	forest		False
+311	19	was		False
+311	20	on		False
+311	21	edge.		False
+312	1	Sophie		False
+312	2	came		False
+312	3	back		False
+312	4	in		False
+312	5	and		False
+312	6	began		False
+312	7	to		False
+312	8	make		False
+312	9	Morgan		False
+312	10	his		False
+312	11	breakfast		False
+312	12	while		False
+312	13	he		False
+312	14	sat		False
+312	15	drinking		False
+312	16	his		False
+312	17	coffee		False
+312	18	and		False
+312	19	reading		False
+312	20	the		False
+312	21	paper.		False
+313	1	My		False
+313	2	nose		False
+313	3	was		False
+313	4	and		False
+313	5	continues		False
+313	6	to		False
+313	7	be		False
+313	8	broken,		False
+313	9	also		False
+313	10	my		False
+313	11	ribs		False
+313	12	and		False
+313	13	legs		False
+313	14	were		False
+313	15	bruised		False
+313	16	after		False
+313	17	the		False
+313	18	collision		False
+313	19	with		False
+313	20	the		False
+313	21	wheelchair.		False
+314	1	Putting		False
+314	2	himself		False
+314	3	between		False
+314	4	Fred		False
+314	5	and		False
+314	6	his		False
+314	7	dad		False
+314	8	could		False
+314	9	only		False
+314	10	do		False
+314	11	more		False
+314	12	harm		False
+314	13	than		False
+314	14	good		False
+314	15	at		False
+314	16	least		False
+314	17	that's		False
+314	18	what		False
+314	19	Neil		False
+314	20	told		False
+314	21	him.		False
+315	1	They		False
+315	2	have		False
+315	3	never		False
+315	4	come		False
+315	5	this		False
+315	6	way		False
+315	7	before		False
+315	8	and		False
+315	9	so		False
+315	10	the		False
+315	11	hour		False
+315	12	of		False
+315	13	their		False
+315	14	arrival		False
+315	15	is		False
+315	16	strange		False
+315	17	if		False
+315	18	they		False
+315	19	wish		False
+315	20	to		False
+315	21	trade.		False
+316	1	By		False
+316	2	the		False
+316	3	time		False
+316	4	he		False
+316	5	got		False
+316	6	home		False
+316	7	he		False
+316	8	was		False
+316	9	feeling		False
+316	10	a		False
+316	11	little		False
+316	12	light		False
+316	13	headed		False
+316	14	and		False
+316	15	felt		False
+316	16	like		False
+316	17	he		False
+316	18	could		False
+316	19	take		False
+316	20	on		False
+316	21	the		False
+316	22	world.		False
+317	1	He		False
+317	2	made		False
+317	3	a		False
+317	4	funny		False
+317	5	noise		False
+317	6	and		False
+317	7	shook		False
+317	8	his		False
+317	9	head		False
+317	10	and		False
+317	11	raised		False
+317	12	his		False
+317	13	hands		False
+317	14	to		False
+317	15	indicate		False
+317	16	that		False
+317	17	he		False
+317	18	was		False
+317	19	useless		False
+317	20	at		False
+317	21	describing		False
+317	22	people.		False
+318	1	Once		False
+318	2	he'd		False
+318	3	chopped		False
+318	4	just		False
+318	5	about		False
+318	6	half,		False
+318	7	he		False
+318	8	stuck		False
+318	9	the		False
+318	10	axe		False
+318	11	into		False
+318	12	the		False
+318	13	chopping		False
+318	14	block		False
+318	15	and		False
+318	16	made		False
+318	17	his		False
+318	18	way		False
+318	19	inside		False
+318	20	to		False
+318	21	have		False
+318	22	breakfast.		False
+319	1	Unlike		False
+319	2	the		False
+319	3	television		False
+319	4	in		False
+319	5	the		False
+319	6	kitchen		False
+319	7	or		False
+319	8	the		False
+319	9	chairs		False
+319	10	in		False
+319	11	the		False
+319	12	lounge		False
+319	13	or		False
+319	14	much		False
+319	15	in		False
+319	16	the		False
+319	17	flat,		False
+319	18	the		False
+319	19	stereo		False
+319	20	was		False
+319	21	not		False
+319	22	dusty.		False
+320	1	Kate		False
+320	2	propped		False
+320	3	herself		False
+320	4	up		False
+320	5	on		False
+320	6	her		False
+320	7	elbows,		False
+320	8	her		False
+320	9	wine		False
+320	10	glass		False
+320	11	standing		False
+320	12	in		False
+320	13	the		False
+320	14	tall		False
+320	15	grass		False
+320	16	besides		False
+320	17	her,		False
+320	18	and		False
+320	19	announced		False
+320	20	that		False
+320	21	we		False
+320	22	should		False
+320	23	talk.		False
+321	1	He		False
+321	2	stood		False
+321	3	over		False
+321	4	the		False
+321	5	small		False
+321	6	sofa		False
+321	7	at		False
+321	8	the		False
+321	9	other		False
+321	10	end		False
+321	11	of		False
+321	12	his		False
+321	13	office		False
+321	14	and		False
+321	15	watched		False
+321	16	the		False
+321	17	small		False
+321	18	figure		False
+321	19	curl		False
+321	20	up		False
+321	21	under		False
+321	22	his		False
+321	23	jacket.		False
+322	1	In		False
+322	2	the		False
+322	3	distance,		False
+322	4	the		False
+322	5	walls		False
+322	6	appeared		False
+322	7	as		False
+322	8	the		False
+322	9	outline		False
+322	10	of		False
+322	11	a		False
+322	12	great		False
+322	13	dragon,		False
+322	14	curled		False
+322	15	and		False
+322	16	sleeping,		False
+322	17	back		False
+322	18	to		False
+322	19	the		False
+322	20	wind		False
+322	21	and		False
+322	22	wings		False
+322	23	folded.		False
+323	1	Peter		False
+323	2	went		False
+323	3	to		False
+323	4	bed		False
+323	5	giving		False
+323	6	himself		False
+323	7	his		False
+323	8	word		False
+323	9	that		False
+323	10	while		False
+323	11	Hugh		False
+323	12	wasn't		False
+323	13	around		False
+323	14	he'd		False
+323	15	look		False
+323	16	out		False
+323	17	for		False
+323	18	George		False
+323	19	as		False
+323	20	much		False
+323	21	as		False
+323	22	he		False
+323	23	could.		False
+324	1	There		False
+324	2	was		False
+324	3	a		False
+324	4	pause,		False
+324	5	then		False
+324	6	the		False
+324	7	distant		False
+324	8	rattle		False
+324	9	of		False
+324	10	stone		False
+324	11	on		False
+324	12	stone,		False
+324	13	followed		False
+324	14	closely		False
+324	15	by		False
+324	16	its		False
+324	17	echo		False
+324	18	from		False
+324	19	the		False
+324	20	high		False
+324	21	mountain		False
+324	22	walls		False
+324	23	behind.		False
+325	1	Ever		False
+325	2	devoted		False
+325	3	to		False
+325	4	his		False
+325	5	wife		False
+325	6	he		False
+325	7	was		False
+325	8	at		False
+325	9	her		False
+325	10	side		False
+325	11	in		False
+325	12	the		False
+325	13	delivery		False
+325	14	room		False
+325	15	when		False
+325	16	she		False
+325	17	gave		False
+325	18	birth		False
+325	19	to		False
+325	20	a		False
+325	21	baby		False
+325	22	girl		False
+325	23	in		False
+325	24	1978.		False
+326	1	Sue		False
+326	2	shook		False
+326	3	her		False
+326	4	head		False
+326	5	as		False
+326	6	she		False
+326	7	watched		False
+326	8	Nicholas		False
+326	9	give		False
+326	10	up		False
+326	11	on		False
+326	12	fighting		False
+326	13	to		False
+326	14	stay		False
+326	15	awake		False
+326	16	and		False
+326	17	fall		False
+326	18	asleep		False
+326	19	on		False
+326	20	the		False
+326	21	chair		False
+326	22	by		False
+326	23	the		False
+326	24	fire.		False
+327	1	If		False
+327	2	you		False
+327	3	had		False
+327	4	asked		False
+327	5	him		False
+327	6	seconds		False
+327	7	after		False
+327	8	visiting		False
+327	9	the		False
+327	10	bar		False
+327	11	what		False
+327	12	colour		False
+327	13	the		False
+327	14	girl's		False
+327	15	hair		False
+327	16	was		False
+327	17	he		False
+327	18	would		False
+327	19	have		False
+327	20	probably		False
+327	21	turned		False
+327	22	around		False
+327	23	to		False
+327	24	look.		False
+328	1	Phil		False
+328	2	ran		False
+328	3	up		False
+328	4	to		False
+328	5	the		False
+328	6	water		False
+328	7	tank,		False
+328	8	his		False
+328	9	mum		False
+328	10	would		False
+328	11	kill		False
+328	12	Nigel		False
+328	13	if		False
+328	14	she		False
+328	15	knew		False
+328	16	he'd		False
+328	17	sent		False
+328	18	him		False
+328	19	up		False
+328	20	the		False
+328	21	hill		False
+328	22	without		False
+328	23	a		False
+328	24	jacket.		False
+329	1	The		False
+329	2	following		False
+329	3	day		False
+329	4	it		False
+329	5	was		False
+329	6	made		False
+329	7	clear		False
+329	8	to		False
+329	9	Laura,		False
+329	10	if		False
+329	11	not		False
+329	12	in		False
+329	13	so		False
+329	14	many		False
+329	15	words,		False
+329	16	that		False
+329	17	she		False
+329	18	really		False
+329	19	needed		False
+329	20	to		False
+329	21	be		False
+329	22	moving		False
+329	23	out		False
+329	24	soon.		False
+330	1	The		False
+330	2	very		False
+330	3	streets		False
+330	4	seemed		False
+330	5	to		False
+330	6	know		False
+330	7	the		False
+330	8	gossip,		False
+330	9	it		False
+330	10	passed		False
+330	11	from		False
+330	12	head		False
+330	13	to		False
+330	14	head		False
+330	15	not		False
+330	16	by		False
+330	17	mouth		False
+330	18	but		False
+330	19	seemingly		False
+330	20	by		False
+330	21	sheer		False
+330	22	power		False
+330	23	of		False
+330	24	will.		False
+331	1	Mary		False
+331	2	had		False
+331	3	absolutely		False
+331	4	no		False
+331	5	idea		False
+331	6	what		False
+331	7	the		False
+331	8	woman		False
+331	9	was		False
+331	10	talking		False
+331	11	about		False
+331	12	but		False
+331	13	there		False
+331	14	were		False
+331	15	few		False
+331	16	things		False
+331	17	that		False
+331	18	annoyed		False
+331	19	her		False
+331	20	more		False
+331	21	than		False
+331	22	adults		False
+331	23	reading		False
+331	24	children's		False
+331	25	books.		False
+332	1	Sarah		False
+332	2	is		False
+332	3	not		False
+332	4	in		False
+332	5	a		False
+332	6	wheelchair,		False
+332	7	she		False
+332	8	is		False
+332	9	not		False
+332	10	big		False
+332	11	and		False
+332	12	strong,		False
+332	13	top		False
+332	14	half		False
+332	15	or		False
+332	16	bottom,		False
+332	17	and		False
+332	18	she		False
+332	19	does		False
+332	20	not		False
+332	21	speak		False
+332	22	with		False
+332	23	an		False
+332	24	American		False
+332	25	accent.		False
+333	1	He		False
+333	2	could		False
+333	3	see		False
+333	4	a		False
+333	5	paying		False
+333	6	job		False
+333	7	just		False
+333	8	about		False
+333	9	to		False
+333	10	slip		False
+333	11	out		False
+333	12	of		False
+333	13	his		False
+333	14	fingers		False
+333	15	and		False
+333	16	he		False
+333	17	knew		False
+333	18	he		False
+333	19	had		False
+333	20	to		False
+333	21	act		False
+333	22	fast		False
+333	23	to		False
+333	24	save		False
+333	25	it.		False
+334	1	If		False
+334	2	he		False
+334	3	does		False
+334	4	decide		False
+334	5	to		False
+334	6	do		False
+334	7	anything,		False
+334	8	he'll		False
+334	9	fill		False
+334	10	their		False
+334	11	bones		False
+334	12	with		False
+334	13	fire,		False
+334	14	put		False
+334	15	ashes		False
+334	16	in		False
+334	17	their		False
+334	18	lights		False
+334	19	and		False
+334	20	blow		False
+334	21	them		False
+334	22	past		False
+334	23	the		False
+334	24	last		False
+334	25	river.		False
+335	1	If		False
+335	2	you		False
+335	3	were		False
+335	4	coming		False
+335	5	from		False
+335	6	the		False
+335	7	high		False
+335	8	street		False
+335	9	you		False
+335	10	had		False
+335	11	to		False
+335	12	walk		False
+335	13	past		False
+335	14	three		False
+335	15	or		False
+335	16	four		False
+335	17	perfectly		False
+335	18	good		False
+335	19	pubs		False
+335	20	to		False
+335	21	get		False
+335	22	to		False
+335	23	The		False
+335	24	Three		False
+335	25	Cups.		False
+336	1	Just		False
+336	2	as		False
+336	3	Margaret		False
+336	4	was		False
+336	5	setting		False
+336	6	out		False
+336	7	tea,		False
+336	8	Patrick		False
+336	9	came		False
+336	10	in		False
+336	11	still		False
+336	12	in		False
+336	13	his		False
+336	14	work		False
+336	15	clothes		False
+336	16	and		False
+336	17	washed		False
+336	18	his		False
+336	19	hands		False
+336	20	in		False
+336	21	the		False
+336	22	water		False
+336	23	in		False
+336	24	the		False
+336	25	basin.		False
+337	1	Richard		False
+337	2	sat		False
+337	3	down		False
+337	4	on		False
+337	5	the		False
+337	6	chair		False
+337	7	in		False
+337	8	front		False
+337	9	of		False
+337	10	the		False
+337	11	stove		False
+337	12	and		False
+337	13	tucked		False
+337	14	into		False
+337	15	his		False
+337	16	tea		False
+337	17	with		False
+337	18	the		False
+337	19	warmth		False
+337	20	of		False
+337	21	the		False
+337	22	stove		False
+337	23	on		False
+337	24	his		False
+337	25	back.		False
+338	1	There		False
+338	2	was		False
+338	3	no		False
+338	4	television		False
+338	5	in		False
+338	6	the		False
+338	7	lounge,		False
+338	8	there		False
+338	9	was		False
+338	10	a		False
+338	11	small		False
+338	12	one		False
+338	13	in		False
+338	14	the		False
+338	15	kitchen		False
+338	16	but		False
+338	17	in		False
+338	18	the		False
+338	19	lounge		False
+338	20	all		False
+338	21	seats		False
+338	22	faced		False
+338	23	the		False
+338	24	record		False
+338	25	player.		False
+339	1	There		False
+339	2	was		False
+339	3	not		False
+339	4	an		False
+339	5	enemy		False
+339	6	within		False
+339	7	a		False
+339	8	hundred		False
+339	9	miles		False
+339	10	and		False
+339	11	they		False
+339	12	were		False
+339	13	trading		False
+339	14	a		False
+339	15	path		False
+339	16	their		False
+339	17	kind		False
+339	18	had		False
+339	19	not		False
+339	20	taken		False
+339	21	for		False
+339	22	many,		False
+339	23	many		False
+339	24	a		False
+339	25	year.		False
+340	1	Susan		False
+340	2	would		False
+340	3	be		False
+340	4	a		False
+340	5	cat		False
+340	6	person,		False
+340	7	she		False
+340	8	wanted		False
+340	9	a		False
+340	10	pet		False
+340	11	that		False
+340	12	could		False
+340	13	look		False
+340	14	after		False
+340	15	itself		False
+340	16	and,		False
+340	17	if		False
+340	18	it		False
+340	19	loved		False
+340	20	her,		False
+340	21	would		False
+340	22	love		False
+340	23	her		False
+340	24	as		False
+340	25	an		False
+340	26	equal.		False
+341	1	Despite		False
+341	2	all		False
+341	3	the		False
+341	4	publicity		False
+341	5	he		False
+341	6	was		False
+341	7	getting		False
+341	8	there		False
+341	9	was		False
+341	10	still		False
+341	11	one		False
+341	12	thing		False
+341	13	Robert		False
+341	14	knew		False
+341	15	he		False
+341	16	had		False
+341	17	to		False
+341	18	do		False
+341	19	before		False
+341	20	he		False
+341	21	could		False
+341	22	clear		False
+341	23	his		False
+341	24	conscience		False
+341	25	for		False
+341	26	good.		False
+342	1	He		False
+342	2	went		False
+342	3	to		False
+342	4	get		False
+342	5	on		False
+342	6	his		False
+342	7	boots		False
+342	8	and		False
+342	9	Ian		False
+342	10	stuck		False
+342	11	out		False
+342	12	his		False
+342	13	foot		False
+342	14	and		False
+342	15	Roger		False
+342	16	fell		False
+342	17	over		False
+342	18	it		False
+342	19	and		False
+342	20	landed		False
+342	21	on		False
+342	22	the		False
+342	23	floor		False
+342	24	with		False
+342	25	a		False
+342	26	thud.		False
+343	1	Jenny		False
+343	2	went		False
+343	3	to		False
+343	4	the		False
+343	5	sitting		False
+343	6	room		False
+343	7	while		False
+343	8	Ross		False
+343	9	finished		False
+343	10	off		False
+343	11	his		False
+343	12	tea		False
+343	13	and		False
+343	14	washed		False
+343	15	up		False
+343	16	his		False
+343	17	dishes		False
+343	18	then		False
+343	19	went		False
+343	20	for		False
+343	21	a		False
+343	22	bath		False
+343	23	and		False
+343	24	straight		False
+343	25	to		False
+343	26	bed.		False
+344	1	Sam		False
+344	2	slid		False
+344	3	down		False
+344	4	the		False
+344	5	wall		False
+344	6	and		False
+344	7	sat		False
+344	8	with		False
+344	9	his		False
+344	10	knees		False
+344	11	against		False
+344	12	his		False
+344	13	chest		False
+344	14	and		False
+344	15	folded		False
+344	16	his		False
+344	17	arms		False
+344	18	across		False
+344	19	them		False
+344	20	and		False
+344	21	put		False
+344	22	his		False
+344	23	head		False
+344	24	down		False
+344	25	on		False
+344	26	them.		False
+345	1	Now		False
+345	2	that		False
+345	3	he		False
+345	4	was		False
+345	5	master,		False
+345	6	had		False
+345	7	his		False
+345	8	own		False
+345	9	affairs		False
+345	10	and		False
+345	11	his		False
+345	12	own		False
+345	13	men		False
+345	14	to		False
+345	15	command,		False
+345	16	he		False
+345	17	was		False
+345	18	less		False
+345	19	inclined		False
+345	20	to		False
+345	21	be		False
+345	22	ordered		False
+345	23	about		False
+345	24	by		False
+345	25	his		False
+345	26	wife.		False
+346	1	For		False
+346	2	now		False
+346	3	we		False
+346	4	must		False
+346	5	go		False
+346	6	on		False
+346	7	with		False
+346	8	our		False
+346	9	lives		False
+346	10	and		False
+346	11	act		False
+346	12	as		False
+346	13	normal,		False
+346	14	which		False
+346	15	right		False
+346	16	now		False
+346	17	means		False
+346	18	drinking		False
+346	19	beer		False
+346	20	and		False
+346	21	talking		False
+346	22	rubbish		False
+346	23	like		False
+346	24	we		False
+346	25	used		False
+346	26	to		False
+346	27	do.		False
+347	1	From		False
+347	2	here		False
+347	3	she		False
+347	4	could		False
+347	5	not		False
+347	6	see		False
+347	7	the		False
+347	8	gate		False
+347	9	but		False
+347	10	she		False
+347	11	knew		False
+347	12	that		False
+347	13	it		False
+347	14	would		False
+347	15	stand		False
+347	16	wide		False
+347	17	and		False
+347	18	gaping,		False
+347	19	welcoming		False
+347	20	the		False
+347	21	night		False
+347	22	in,		False
+347	23	and		False
+347	24	all		False
+347	25	that		False
+347	26	it		False
+347	27	held.		False
+348	1	He		False
+348	2	still		False
+348	3	felt		False
+348	4	a		False
+348	5	little		False
+348	6	drunk		False
+348	7	but		False
+348	8	not		False
+348	9	as		False
+348	10	bad		False
+348	11	as		False
+348	12	he		False
+348	13	was		False
+348	14	earlier		False
+348	15	but		False
+348	16	that		False
+348	17	didn't		False
+348	18	stop		False
+348	19	him		False
+348	20	falling		False
+348	21	in		False
+348	22	the		False
+348	23	door		False
+348	24	and		False
+348	25	waking		False
+348	26	everyone		False
+348	27	up.		False
+349	1	I		False
+349	2	can't		False
+349	3	imagine		False
+349	4	what		False
+349	5	else		False
+349	6	you		False
+349	7	would		False
+349	8	have		False
+349	9	been		False
+349	10	talking		False
+349	11	to		False
+349	12	him		False
+349	13	about		False
+349	14	except		False
+349	15	a		False
+349	16	certain		False
+349	17	matter		False
+349	18	that		False
+349	19	I		False
+349	20	believe		False
+349	21	you		False
+349	22	said		False
+349	23	you		False
+349	24	would		False
+349	25	not		False
+349	26	talk		False
+349	27	about.		False
+350	1	She		False
+350	2	also		False
+350	3	says		False
+350	4	to		False
+350	5	tell		False
+350	6	you		False
+350	7	that		False
+350	8	you		False
+350	9	will		False
+350	10	not		False
+350	11	be		False
+350	12	able		False
+350	13	to		False
+350	14	rely		False
+350	15	on		False
+350	16	the		False
+350	17	land,		False
+350	18	not		False
+350	19	once		False
+350	20	you		False
+350	21	are		False
+350	22	under		False
+350	23	the		False
+350	24	shadow		False
+350	25	of		False
+350	26	the		False
+350	27	walls.		False
+351	1	Slowly,		False
+351	2	very		False
+351	3	slowly,		False
+351	4	he		False
+351	5	placed		False
+351	6	the		False
+351	7	tips		False
+351	8	of		False
+351	9	his		False
+351	10	fingers		False
+351	11	on		False
+351	12	the		False
+351	13	ground		False
+351	14	and		False
+351	15	felt		False
+351	16	the		False
+351	17	power		False
+351	18	flowing		False
+351	19	through		False
+351	20	the		False
+351	21	earth		False
+351	22	to		False
+351	23	the		False
+351	24	stones		False
+351	25	touch		False
+351	26	his		False
+351	27	ability.		False
+352	1	The		False
+352	2	door		False
+352	3	was		False
+352	4	slammed		False
+352	5	shut		False
+352	6	behind		False
+352	7	him		False
+352	8	and		False
+352	9	Scott		False
+352	10	slid		False
+352	11	down		False
+352	12	the		False
+352	13	wall		False
+352	14	right		False
+352	15	to		False
+352	16	the		False
+352	17	floor		False
+352	18	not		False
+352	19	even		False
+352	20	noticing		False
+352	21	the		False
+352	22	two		False
+352	23	other		False
+352	24	men		False
+352	25	in		False
+352	26	the		False
+352	27	cell.		False
+353	1	Caroline		False
+353	2	picked		False
+353	3	up		False
+353	4	the		False
+353	5	empty		False
+353	6	dishes		False
+353	7	from		False
+353	8	the		False
+353	9	table		False
+353	10	and		False
+353	11	piled		False
+353	12	them		False
+353	13	on		False
+353	14	the		False
+353	15	side		False
+353	16	of		False
+353	17	the		False
+353	18	sink		False
+353	19	and		False
+353	20	began		False
+353	21	to		False
+353	22	clean		False
+353	23	up		False
+353	24	the		False
+353	25	crumbs		False
+353	26	on		False
+353	27	the		False
+353	28	table.		False
+354	1	In		False
+354	2	the		False
+354	3	morning		False
+354	4	it		False
+354	5	felt		False
+354	6	good		False
+354	7	to		False
+354	8	get		False
+354	9	up		False
+354	10	and		False
+354	11	not		False
+354	12	have		False
+354	13	to		False
+354	14	wait		False
+354	15	for		False
+354	16	an		False
+354	17	inspection		False
+354	18	or		False
+354	19	get		False
+354	20	told		False
+354	21	when		False
+354	22	to		False
+354	23	go		False
+354	24	to		False
+354	25	the		False
+354	26	bathroom		False
+354	27	or		False
+354	28	have		False
+354	29	breakfast.		False
+355	1	When		False
+355	2	she		False
+355	3	had		False
+355	4	gone		False
+355	5	to		False
+355	6	make		False
+355	7	a		False
+355	8	cup		False
+355	9	of		False
+355	10	tea		False
+355	11	she		False
+355	12	had		False
+355	13	noticed		False
+355	14	a		False
+355	15	small		False
+355	16	hair		False
+355	17	stuck		False
+355	18	to		False
+355	19	the		False
+355	20	moist		False
+355	21	lip		False
+355	22	of		False
+355	23	the		False
+355	24	kettle		False
+355	25	and,		False
+355	26	without		False
+355	27	thinking,		False
+355	28	had		False
+355	29	gone		False
+355	30	to		False
+355	31	remove		False
+355	32	it.		False
+356	1	Simon		False
+356	2	lay		False
+356	3	staring		False
+356	4	at		False
+356	5	the		False
+356	6	ceiling		False
+356	7	again		False
+356	8	with		False
+356	9	his		False
+356	10	arms		False
+356	11	behind		False
+356	12	his		False
+356	13	head		False
+356	14	and		False
+356	15	thinking		False
+356	16	about		False
+356	17	his		False
+356	18	mum,		False
+356	19	he		False
+356	20	hoped		False
+356	21	she		False
+356	22	wasn't		False
+356	23	worrying		False
+356	24	too		False
+356	25	much		False
+356	26	and		False
+356	27	hoped		False
+356	28	they'd		False
+356	29	get		False
+356	30	to		False
+356	31	visit		False
+356	32	him		False
+356	33	soon.		False
+357	1	Paula		False
+357	2	tried		False
+357	3	to		False
+357	4	relax		False
+357	5	back		False
+357	6	into		False
+357	7	the		False
+357	8	pillow		False
+357	9	to		False
+357	10	drift		False
+357	11	off		False
+357	12	a		False
+357	13	little,		False
+357	14	to		False
+357	15	enjoy		False
+357	16	listening		False
+357	17	to		False
+357	18	the		False
+357	19	world,		False
+357	20	but		False
+357	21	the		False
+357	22	morning		False
+357	23	was		False
+357	24	shot,		False
+357	25	it		False
+357	26	was		False
+357	27	ruined		False
+357	28	and		False
+357	29	there		False
+357	30	was		False
+357	31	no		False
+357	32	getting		False
+357	33	it		False
+357	34	back.		False
+358	1	He		False
+358	2	kept		False
+358	3	his		False
+358	4	stock		False
+358	5	books		False
+358	6	neat		False
+358	7	and		False
+358	8	checked		False
+358	9	them		False
+358	10	every		False
+358	11	day		False
+358	12	and		False
+358	13	Steve		False
+358	14	knew		False
+358	15	he		False
+358	16	urged		False
+358	17	his		False
+358	18	son		False
+358	19	Kenneth		False
+358	20	to		False
+358	21	be		False
+358	22	nothing		False
+358	23	less		False
+358	24	than		False
+358	25	respectable		False
+358	26	and		False
+358	27	made		False
+358	28	sure		False
+358	29	he		False
+358	30	was		False
+358	31	polite		False
+358	32	with		False
+358	33	their		False
+358	34	customers.		False
+359	1	Tom		False
+359	2	walked		False
+359	3	into		False
+359	4	the		False
+359	5	visiting		False
+359	6	room		False
+359	7	glad		False
+359	8	that		False
+359	9	his		False
+359	10	mum		False
+359	11	was		False
+359	12	making		False
+359	13	it		False
+359	14	back		False
+359	15	to		False
+359	16	see		False
+359	17	him		False
+359	18	so		False
+359	19	quickly		False
+359	20	or		False
+359	21	at		False
+359	22	least		False
+359	23	when		False
+359	24	they		False
+359	25	told		False
+359	26	him		False
+359	27	he		False
+359	28	had		False
+359	29	a		False
+359	30	visitor		False
+359	31	he		False
+359	32	assumed		False
+359	33	it		False
+359	34	was		False
+359	35	his		False
+359	36	mum.		False
+360	1	She		False
+360	2	seemed		False
+360	3	to		False
+360	4	show		False
+360	5	some		False
+360	6	interest		False
+360	7	in		False
+360	8	Tony		False
+360	9	fixing		False
+360	10	the		False
+360	11	truck		False
+360	12	and		False
+360	13	asked		False
+360	14	a		False
+360	15	lot		False
+360	16	of		False
+360	17	questions		False
+360	18	and		False
+360	19	even		False
+360	20	liked		False
+360	21	it		False
+360	22	when		False
+360	23	he		False
+360	24	let		False
+360	25	her		False
+360	26	fix		False
+360	27	some		False
+360	28	things		False
+360	29	and		False
+360	30	she		False
+360	31	didn't		False
+360	32	seem		False
+360	33	to		False
+360	34	mind		False
+360	35	getting		False
+360	36	covered		False
+360	37	in		False
+360	38	oil.		False
