@@ -67,6 +67,32 @@ def get_token_clusters(model, num_clusters):
                             }
     return clusterid_to_tokens, tokenid_to_clusterid
 
+def compute_all_cluster_probs(context_probs, cluster_tokens):
+    return {
+        cluster_id : torch.sum(context_probs[cluster_tokens[cluster_id]])
+        for cluster_id in cluster_tokens
+    }
+
+def compute_normalizing_constant(context_probs, cluster_probs, token2cluster):
+    total_prob = 0
+    for i in range(len(context_probs)):
+        p_w = context_probs[i]
+        p_c = cluster_probs[token2cluster[i]]
+        total_prob += (p_w * p_c)
+    return total_prob
+
+def load_clusters(path):
+    with open(path, 'rb') as f:
+        clusters = pickle.load(f)
+    token2cluster = {}
+    cluster2tokens = {}
+    for cluster_id in clusters:
+        tokens = clusters[cluster_id][0]
+        cluster2tokens[cluster_id ]= tokens
+        for token in tokens:
+            token2cluster[token] = cluster_id
+    return cluster2tokens, token2cluster
+
 def save_clustering(cluster_tokens, corpus_name, num_clusters, run_id):
     filename = f"output/h2_clusters/{corpus_name}_{num_clusters}_clusters_{run_id}.pickle"
     with open(filename, 'wb') as clusters:
@@ -79,10 +105,14 @@ def main():
     model_variant = sys.argv[2].split("/")[-1]
     manipulation = sys.argv[3]
     hparam = int(sys.argv[4]) # for semantics, it's number of clusters; for frequency, it's the cutoff
-    run_id = sys.argv[-2]
+    run_id = sys.argv[-2] # could also be an existing clustering
     mode = sys.argv[-1]
     assert mode in {"token", "word"}, ValueError('Calculation mode must be "token" or "word"')
     assert manipulation in {"cluster", "freq"}, ValueError('Manipulation must either "cluster" or "freq"')
+    
+    cluster_file = ""
+    if run_id.endswith("pickle"):
+        cluster_file = run_id
 
     if "gpt-neox" in model_variant:
         tokenizer = GPTNeoXTokenizerFast.from_pretrained(sys.argv[2])
@@ -113,9 +143,11 @@ def main():
 
     cluster2tokens, token2cluster = {}, {}
     if manipulation == "cluster":
-        cluster2tokens, token2cluster = get_token_clusters(model, hparam)
-    
-    save_clustering(cluster2tokens, corpus_name, hparam, run_id)
+        if cluster_file:
+            cluster2tokens, token2cluster = load_clusters(cluster_file)
+        else:
+            cluster2tokens, token2cluster = get_token_clusters(model, hparam)
+            save_clustering(cluster2tokens, corpus_name, hparam, run_id)
 
     batches = []
     words = []
@@ -185,14 +217,15 @@ def main():
             prob, surp = [], []
             probs = softmax(model_output.logits).squeeze(0)
             for i in range(len(output_ids)):
-                output_token = output_ids[i]
+                output_token = output_ids[i].item()
                 context_probs = probs[i]
-                target_cluster = token2cluster[output_token.item()]
-                cluster_tokens = cluster2tokens[target_cluster]
-                item_probs = context_probs[cluster_tokens]
-                cluster_prob = torch.sum(item_probs)
-                prob.append(cluster_prob)
-                surp.append(-torch.log2(cluster_prob))
+                all_cluster_probs = compute_all_cluster_probs(context_probs, cluster2tokens)
+                target_cluster = token2cluster[output_token]
+                weighted_token_prob = context_probs[output_token] * all_cluster_probs[target_cluster]
+                all_probs = compute_normalizing_constant(context_probs, token2cluster, all_cluster_probs)
+                h2_prob = weighted_token_prob / all_probs
+                prob.append(h2_prob)
+                surp.append(-torch.log2(h2_prob))
                 
         elif manipulation == "freq":
             prob = []
