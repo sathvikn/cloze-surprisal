@@ -1,8 +1,9 @@
 # cloze-surprisal
 
-This is the repository where we should develop code for calculating cloze- and LM-based surprisal for the three datasets (Provo; de Varda UCL; Brothers and Kuperberg).
+This is the repository for our paper "Clozing the Gap: Exploring Why Language Model Surprisal Outperforms Cloze Surprisal (Nair* & Oh*, ACL 2026)".
+Here, we calculate cloze- and LM-based surprisal for the three datasets (Provo; de Varda UCL; Brothers and Kuperberg).
 
-Independently from this repository, the three datasets have also been integrated into the [(LME) regression toolkit from the Schuler group](https://github.com/modelblocks/modelblocks-release) (Modelblocks hereafter). So what needs to happen now is to calculate and format surprisal predictors as described.
+Independently from this repository, the three datasets have also been integrated into the [(LME) regression toolkit from the Schuler group](https://github.com/modelblocks/modelblocks-release) (Modelblocks hereafter). 
 
 We want to make two manipulations:
 
@@ -39,7 +40,7 @@ In order to make sure we are running the hypotheses on items that have existing 
 
 Hypothesis 1 tries to put LM and cloze probability on equal footing by sampling a smaller number of completions from an LM. Run `python scripts/sample_completions.py [corpus name] [job ID]` to get these estimates. Outputs for each word are under `outputs/[corpus]_gpt2_h1_{job ID}.itemmeasures`, and the columns `lmprob` and `lmsurp` represent the measures from this manipulation, smoothed with k = 1 and V = 200. The job IDs distinguish different runs. Results are stored as pickle files in `output/h1_responses`.
 
-Hypothesis 2 defines k-means clusters over GPT2's token embeddings, and adds the probabilities of the responses within the token's cluster. Run `python scripts/get_llm_surprisal.py text_data/[corpus_name].sentitems gpt2 clustering [number of clusters] [job ID] word`. We report results for k=20, 40, 80, 100, 500, and 1000 clusters, across five runs due to sample variation. The clustering results are saved as dictionaries that map from cluster IDs to tokens. They stored as pickle files in `output/h2_clusters`.
+Hypothesis 2 defines k-means clusters over GPT2's token embeddings, and adds the probabilities of the responses within the token's cluster. Run `python scripts/get_llm_surprisal.py text_data/[corpus_name].sentitems gpt2 clustering [number of clusters] [job ID] word`. We report results for k=20, 40, 80, 100, 500, and 1000 clusters, across five runs due to sample variation. The clustering results are saved as dictionaries that map from cluster IDs to tokens. They are stored as pickle files in `output/h2_clusters`.
 
 Hypothesis 3 assumes that cloze responses are biased to more frequent words. Run `python scripts/get_llm_surprisal.py text_data/[corpus name].sentitems gpt2 freq 4 word` to get estimates for surprisal where we restrict the LM's vocabulary to tokens with a log frequency greater than 4 (as measured by `wordfreq`). This is around 1/3 of the GPT2 vocabulary. For tokens that are below the threshold, we assign probability 1 / (vocab size) + 1. We renormalize the other probabilities to reflect this.
 
